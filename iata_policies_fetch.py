@@ -385,6 +385,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Fetch airline baggage policy info using a headless Chromium browser.")
     parser.add_argument("--start-index", type=int, default=1, help="1-based row index to start from.")
     parser.add_argument("--limit", type=int, default=0, help="How many rows to process. 0 means all.")
+    parser.add_argument("--airline", type=str, default="", help="Process only this airline by name (case-insensitive).")
     parser.add_argument("--log-file", type=str, default="", help="Path to write log output. Defaults to output/run_<timestamp>.log.")
     return parser.parse_args()
 
@@ -419,8 +420,17 @@ def main():
     sys.stdout = tee
     print(f"Log: {log_path}")
 
-    start = max(args.start_index, 1)
-    end = len(rows) if args.limit <= 0 else min(len(rows), start - 1 + args.limit)
+    if args.airline:
+        target = args.airline.lower().strip()
+        matches = [i for i, r in enumerate(rows) if r.get("airline_name", "").lower().strip() == target]
+        if not matches:
+            print(f"Airline not found: {args.airline}")
+            sys.exit(1)
+        start = matches[0] + 1
+        end = matches[0] + 1
+    else:
+        start = max(args.start_index, 1)
+        end = len(rows) if args.limit <= 0 else min(len(rows), start - 1 + args.limit)
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)

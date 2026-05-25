@@ -1,0 +1,427 @@
+name: Fetch Airline Baggage Policy
+
+on:
+  workflow_dispatch:
+    inputs:
+      airline:
+        description: "Select an airline"
+        required: true
+        type: choice
+        options:
+          - ABX Air
+          - Aegean Airlines
+          - Aer Lingus
+          - Aero Mongolia
+          - Aero Republica
+          - Aeroflot
+          - Aeroitalia
+          - Aerolineas Argentinas
+          - Aeromexico
+          - Africa World Airlines
+          - Air Algérie
+          - Air Arabia
+          - Air Astana
+          - Air Astra
+          - Air Atlanta Icelandic
+          - Air Austral
+          - Air Baltic
+          - Air Botswana
+          - Air Cairo
+          - Air Caledonie
+          - Air Cambodia
+          - Air Canada
+          - Air Caraibes
+          - Air Changan
+          - Air China
+          - Air Corsica
+          - Air Dolomiti
+          - Air Europa
+          - Air France
+          - Air Greenland
+          - Air Guilin
+          - Air Hong Kong
+          - Air India
+          - Air India Express
+          - Air Koryo
+          - Air Macau
+          - Air Mauritius
+          - Air Montenegro
+          - Air New Zealand
+          - Air Niugini
+          - Air Nostrum
+          - Air Peace
+          - Air Premia
+          - Air Senegal
+          - Air Serbia
+          - Air Seychelles
+          - Air Tahiti
+          - Air Tahiti Nui
+          - Air Tanzania
+          - Air Transat
+          - Air Vanuatu
+          - Aircalin
+          - Airhub Airlines
+          - Airline GEO SKY
+          - Airlink
+          - AIRZETA
+          - AJet
+          - Akasa Air
+          - Alaska Airlines
+          - Albastar
+          - AlMasria Universal Airlines
+          - Amelia
+          - American Airlines
+          - ANA
+          - APG Airlines
+          - Arajet
+          - Arkia Israeli Airlines
+          - Asiana Airlines
+          - ASKY
+          - ASL Airlines Belgium
+          - ASL Airlines France
+          - ASL Airlines Ireland
+          - Atlantic Airways
+          - Atlas Air
+          - Austrian
+          - Avianca
+          - Avianca Costa Rica
+          - Avianca Ecuador
+          - Avion Express
+          - Avion Express Malta
+          - Azerbaijan Airlines
+          - Azores Airlines
+          - Azul Brazilian Airlines
+          - Badr Airlines
+          - Bahamasair
+          - Bamboo Airways
+          - Bangkok Airways
+          - Batik Air
+          - Batik Air Malaysia
+          - BBN Airlines
+          - Belavia Belarusian Airlines
+          - Biman Bangladesh Airlines
+          - Binter Canarias
+          - Blue Bird Airways
+          - BoA Boliviana de Aviacion
+          - Braathens Regional Airways
+          - British Airways
+          - Brussels Airlines
+          - Bulgaria Air
+          - Camair-Co
+          - Capital Airlines
+          - Cargojet Airways
+          - Cargolux
+          - Caribbean Airlines
+          - Carpatair
+          - Cathay Pacific
+          - Cebu Pacific
+          - CemAir
+          - Chair Airlines
+          - Chalair
+          - Challenge Airlines (BE)
+          - Challenge Airlines (IL)
+          - China Airlines
+          - China Cargo Airlines
+          - China Eastern
+          - China Express Airlines
+          - China Postal Airlines
+          - China Southern Airlines
+          - China United Airlines
+          - Citilink
+          - CityJet
+          - Clic Air
+          - Condor
+          - COPA Airlines
+          - Corendon Airlines
+          - Corsair International
+          - Croatia Airlines
+          - Cubana
+          - Cyprus Airways
+          - DAN AIR
+          - DAT (LT)
+          - Delta Air Lines
+          - DHL Air
+          - DHL Air (Bahrain)
+          - Discover Airlines
+          - Domestic Airlines
+          - Eastar Jet
+          - Eastern Airlines
+          - Edelweiss Air
+          - Egyptair
+          - EL AL
+          - Electra Airways
+          - Emirates
+          - Estafeta Cargo
+          - Ethiopian Airlines
+          - Etihad Airways
+          - EuroAtlantic Airways
+          - European Air Transport
+          - Eurowings
+          - EVA Air
+          - Fastjet Zimbabwe
+          - FedEx Express
+          - Fiji Airways
+          - Finnair
+          - FlexFlight
+          - Fly Baghdad
+          - Fly Namibia
+          - Fly2Sky
+          - flyadeal
+          - flydubai
+          - FlyGabon
+          - Flynas
+          - FLYONE
+          - Freebird Airlines
+          - French Bee
+          - Fuzhou Airlines
+          - Garuda Indonesia
+          - Georgian Airways
+          - German Airways
+          - GetJet Airlines
+          - Global Airways and Lift
+          - GlobalX
+          - GOL Linhas Aereas
+          - Greater Bay Airlines
+          - Gulf Air
+          - GX Airlines
+          - Hahnair
+          - Hainan Airlines
+          - Hawaiian Airlines
+          - Hebei Airlines
+          - Hello Jets
+          - Heston Airlines
+          - Hi Fly
+          - Hi Fly (Malta)
+          - Himalaya Airlines
+          - Hong Kong Air Cargo
+          - Hong Kong Airlines
+          - Hong Kong Express Airways
+          - IBERIA
+          - Iberojet
+          - Iberojet Airlines
+          - Ibom Air
+          - Icelandair
+          - Ikar
+          - IndiGo
+          - Iran Air
+          - Iran Airtour Airline
+          - Iran Aseman Airlines
+          - Israir
+          - ITA Airways
+          - Japan Airlines
+          - Japan Transocean Air
+          - Jazeera Airways
+          - JD Airlines
+          - Jeju Air
+          - JetBlue
+          - JetSMART Argentina
+          - JetSMART Chile
+          - JetSMART Colombia
+          - JetSMART Peru
+          - Jettime
+          - Jin Air
+          - Jordan Aviation
+          - Juneyao Airlines
+          - Kam Air
+          - Kenya Airways
+          - KlasJet
+          - KLM
+          - KM Malta Airlines
+          - Korean Air
+          - Kunming Airlines
+          - Kuwait Airways
+          - La Compagnie
+          - LAM
+          - Lao Airlines
+          - LATAM Airlines Brasil
+          - LATAM Airlines Colombia
+          - LATAM Airlines Ecuador
+          - LATAM Airlines Group
+          - LATAM Airlines Paraguay
+          - LATAM Airlines Peru
+          - LATAM Cargo Brasil
+          - LATAM Cargo Chile
+          - Link Airways
+          - Lion Air
+          - Loganair
+          - Loong Air
+          - LOT Polish Airlines
+          - Lucky Air
+          - Lufthansa
+          - Lufthansa Cargo
+          - Lufthansa City Airlines
+          - Lufthansa CityLine
+          - Luxair
+          - Madagascar Airlines
+          - Malaysia Airlines
+          - Mandarin Airlines
+          - Martinair Cargo
+          - MasAir
+          - Mauritania Airlines International
+          - Mavi Gök Airlines (MGA)
+          - MEA
+          - MIAT Mongolian Airlines
+          - MNG Airlines
+          - Myanmar Airways International
+          - Myanmar National Airlines
+          - National Airlines
+          - Nauru Airlines
+          - Neos
+          - Nesma Airlines
+          - New Pacific Airlines
+          - Nile Air
+          - Nippon Cargo Airlines
+          - Nok Air
+          - NordStar
+          - Nordwind Airlines
+          - Norra
+          - Nouvelair
+          - Okay Airways
+          - Olympic Air
+          - Oman Air
+          - Overland Airways
+          - Pakistan International Airlines
+          - PAL Express
+          - Paranair
+          - Pegasus Airlines
+          - Petroleum Air Services
+          - PGA-Portugalia Airlines
+          - Philippine Airlines
+          - Plus Ultra
+          - Polar Air Cargo
+          - PopulAir
+          - Porter Airlines
+          - Poste Air Cargo
+          - Precision Air
+          - Privilege Style
+          - Proflight Zambia
+          - Qantas
+          - Qatar Airways
+          - Qazaq Air
+          - Qingdao Airlines
+          - Red Sea Airlines
+          - Riyadh Air
+          - Rossiya Airlines
+          - Royal Air Maroc
+          - Royal Brunei
+          - Royal Jordanian
+          - Ruili Airlines
+          - RusLine
+          - RwandAir
+          - S7 Airlines
+          - Safair
+          - Salam Air
+          - SAS
+          - SATA  Air Acores
+          - Saudi Arabian Airlines
+          - SCAT Airlines
+          - Scoot
+          - SF Airlines
+          - Shandong Airlines
+          - Shanghai Airlines
+          - Shenzhen Airlines
+          - Sichuan Airlines
+          - Silk Way West Airlines
+          - Singapore Airlines
+          - SKY Airline
+          - Sky express
+          - SkyUp Airlines
+          - Smartavia
+          - SmartLynx Airlines Malta
+          - Smartwings
+          - Solomon Airlines
+          - Somon Air
+          - South African Airways
+          - Southwest Airlines
+          - Southwind Airlines
+          - SpiceJet
+          - SriLankan Airlines
+          - STARLUX Airlines
+          - Sun Country Airlines
+          - SunExpress
+          - Suparna Airlines
+          - Swiftair
+          - SWISS
+          - Syrianair
+          - 'T''way Air'
+          - TAAG Angola Airlines
+          - TACA
+          - TAG Airlines
+          - Tailwind Airlines
+          - TAP Air Portugal
+          - TAROM
+          - Thai Airways International
+          - Thai Lion Air
+          - Tianjin Airlines
+          - Tibet Airlines
+          - TUIfly
+          - Tunisair
+          - Turkish Airlines
+          - TUS Airways
+          - ULS Airlines Cargo
+          - UNI AIR
+          - United Airlines
+          - United Nigeria Airlines
+          - UPS Airlines
+          - Ural Airlines
+          - Urumqi Air
+          - US-Bangla Airlines
+          - UTair
+          - Uzbekistan Airways
+          - Vietjet
+          - Vietnam Airlines
+          - Virgin Atlantic
+          - Virgin Australia
+          - Volaris
+          - Volotea
+          - Vueling
+          - Wamos Air
+          - West Air
+          - WestJet
+          - White coloured by you
+          - Wideroe
+          - World2Fly
+          - Xiamen Airlines
+          - YTO Cargo Airlines
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Resolve official site
+        run: python iata_official_sites_resolver.py --airline "${{ inputs.airline }}"
+
+      - name: Fetch baggage policy
+        run: python iata_policies_fetch.py --airline "${{ inputs.airline }}"
+
+      - name: Format and display results
+        run: python format_results.py "${{ inputs.airline }}"
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "data: update ${{ inputs.airline }}"
+          git push

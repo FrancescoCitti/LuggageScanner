@@ -263,6 +263,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Resolve official airline sites from IATA member pages.")
     parser.add_argument("--start-index", type=int, default=1)
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--airline", type=str, default="", help="Process only this airline by name (case-insensitive).")
     return parser.parse_args()
 
 
@@ -277,8 +278,17 @@ def main():
     session = requests.Session()
     rows = ensure_columns(load_csv(OUTPUT_CSV))
 
-    start = max(args.start_index, 1)
-    end = len(rows) if args.limit <= 0 else min(len(rows), start - 1 + args.limit)
+    if args.airline:
+        target = args.airline.lower().strip()
+        matches = [i for i, r in enumerate(rows) if r.get("airline_name", "").lower().strip() == target]
+        if not matches:
+            print(f"Airline not found: {args.airline}")
+            return
+        start = matches[0] + 1
+        end = matches[0] + 1
+    else:
+        start = max(args.start_index, 1)
+        end = len(rows) if args.limit <= 0 else min(len(rows), start - 1 + args.limit)
 
     print(f"Processing rows {start}-{end} of {len(rows)}...", flush=True)
 
