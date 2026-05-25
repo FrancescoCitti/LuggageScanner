@@ -1,0 +1,33 @@
+{
+  "airline_name": "Azores Airlines",
+  "iata_designator": "S4",
+  "icao_code": "RZO",
+  "country_territory": "Portugal",
+  "official_site": "https://www.azoresairlines.pt/en",
+  "checked_at": "2026-05-25T21:47:59+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.azoresairlines.pt/en/information/baggage/checked-baggage",
+  "restricted_items_url": "https://www.azoresairlines.pt/en/support/contact-us",
+  "battery_policy_url": "https://www.azoresairlines.pt/en/support/contact-us",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "64 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Contact Us | Azores Airlines We value your privacy We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 39 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the \"Privacy\" button at the bottom of the webpage. MORE OPTIONS AGREE Skip to main content Following the CGTP trade union confederation general strike notice for June 3, 2026, passengers with travel on this date may change thei",
+  "notes": ""
+}

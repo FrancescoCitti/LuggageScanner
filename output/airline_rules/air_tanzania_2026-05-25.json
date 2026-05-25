@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Tanzania",
+  "iata_designator": "TC",
+  "icao_code": "ATC",
+  "country_territory": "Tanzania, United Republic of",
+  "official_site": "https://www.airtanzania.co.tz/",
+  "checked_at": "2026-05-25T21:09:18+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airtanzania.co.tz/baggage",
+  "restricted_items_url": "https://www.airtanzania.co.tz/faqs",
+  "battery_policy_url": "https://www.airtanzania.co.tz/faqs",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": true,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "23 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Faqs LIVE DEALS FAQs TWIGA MILES LOGIN CARGO SERVICES TWIGA MILES LOGIN Explore Destinations Offers About Us News and Events Our New Destinations Plan Travel My Trip Hotels Cars/taxi Family Travel Group Packages Payment Options Policies Best Deals from Dar es Salaam Journey Before The Flight Flight Schedule Our Fleet Online Check-in Baggage Special Services Festival Season On Board Experience Visa Requirements Twiga Lounges Shuttle Services Health Information Travel Advisory Holiday Desk Onboard Experience TWIGA MILES Member Benefits Becoming a member Earning points Redeeming points Campaigns FAQs Beyond Flying Contact Us Offices Faqs Contact Form Best Deals from Dar es Salaam Home Faqs FAQs What are my payment options? What are my payment options? Pay quickly and efficiently through any of our payment options: credit and debit cards, mobile payment or at our sales office. Read more about our payments options Can I make an online payment in a currency of my choice? Can I make an online payment in a currency of my choice? Our prices fares are either in Shillings or Dollars, we recommend, if you are booking outside Tanzania to use dollar as a currency of choice. Please note that if y",
+  "notes": ""
+}

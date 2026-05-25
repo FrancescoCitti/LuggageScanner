@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Vanuatu",
+  "iata_designator": "NF",
+  "icao_code": "AVN",
+  "country_territory": "Vanuatu",
+  "official_site": "http://www.airvanuatu.com/",
+  "checked_at": "2026-05-25T21:39:23+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airvanuatu.com/plan/faqs",
+  "restricted_items_url": "https://www.airvanuatu.com/plan/faqs",
+  "battery_policy_url": "https://www.airvanuatu.com/plan/faqs",
+  "found_baggage_info": false,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": null
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "FAQs | Air Vanuatu Login Book Book My Flight ID Requirements Fares Specials Flight Schedules Payment options Cargo Manage Manage My Booking Online Check in Before You Fly Flight Status Special Assistance Plan FAQs Travel Advisory Flying with Children At the Airport Onboard your Flight Request Refunds Our Policies, Terms & Conditions Destinations Efate Santo Tanna Sample Itineraries About News Stories Careers Customer Login FAQs We are here to help. Learn more about baggage allowances, ticketing, carry on restrictions and flight bookings. You will also find more details on our Travel Info page for Special Assistance and our Cargo services. If you have not found the answer your require from the below FAQs below, please get in touch your nearest Air Vanuatu office where one of our team members would be happy to assist you (we do not charge for calls). Booking What will happen to bookings made prior to the Company entering Liquidation? a) Unpaid tickets Any bookings made prior to the appointment of the Liquidators which have not been paid have been cancelled and new bookings will need to be made. b) Paid tickets Please be advised that Air Vanuatu (Operations) Limited (In Liquidation) w",
+  "notes": ""
+}

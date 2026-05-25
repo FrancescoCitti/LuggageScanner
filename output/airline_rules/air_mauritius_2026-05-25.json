@@ -1,0 +1,37 @@
+{
+  "airline_name": "Air Mauritius",
+  "iata_designator": "MK",
+  "icao_code": "MAU",
+  "country_territory": "Mauritius",
+  "official_site": "http://www.airmauritius.com/",
+  "checked_at": "2026-05-25T21:33:42+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airmauritius.com/en/before-you-fly/baggage/checked-baggage",
+  "restricted_items_url": "https://www.airmauritius.com/en/before-you-fly/baggage/dangerous-goods",
+  "battery_policy_url": "https://www.airmauritius.com/en/before-you-fly/baggage/dangerous-goods/carriage-of-power-banks-and-batteries",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": true,
+  "found_lighter_info": true,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "32 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": [
+      100,
+      160,
+      300
+    ],
+    "spare_battery_rule": "mentioned",
+    "power_bank_rule": "mentioned",
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": "Battery-powered lighters powered by a lithium ion or lithium metal battery (e.",
+    "matches_rule": "Safety matches or a cigarette lighter that does not contain un-absorbed liquid fuel."
+  },
+  "prohibited_items_summary": "Dangerous Goods : Air Mauritius Book & Manage Book Flight Flight Deals Route Network Flight Schedule Timetable Manage Manage Booking Flight Status Baggage Status Check-in Mauritius Book now Book & Manage Book & Manage Before you fly Baggage Carry-On Baggage Checked Baggage Additional Baggage Special Baggage Dangerous Goods LAGs Baggage Clearance Travel information Passport & Visa Customs and Security Assistance & Health Travelling with Children Unaccompanied Minor Travelling with pets Allergen-Sensitive Passengers Customise your Journey Extra Bags Seating Upgrade Lounge Access Special Meals Champagne Book Hotel Before you fly Before you fly Flying with us Fleet Our Cabins Business Economy Inflight Entertainment Movies, Music & Games Onboard Wi-Fi Magazines Meals & Beverages Inflight Menu Special Meals Champagne & more Airport Lounges The Amédée Maingard Lounge Other Lounges Flying with us Flying with us Destinations Holiday type Beach holidays Romance holidays Family holidays Nature holidays Adventure holidays Food & Culture Holidays Where we fly Mauritius Europe Asia & Australia Africa & Middle East Indian Ocean Islands Popular Destinations Flights to Mauritius Flights to Rodrigue",
+  "notes": ""
+}

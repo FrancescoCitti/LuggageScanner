@@ -1,0 +1,33 @@
+{
+  "airline_name": "Albastar",
+  "iata_designator": "AP",
+  "icao_code": "LAV",
+  "country_territory": "Spain",
+  "official_site": "https://www.albastar.es/en/",
+  "checked_at": "2026-05-25T21:42:56+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://albastar.es/en/baggage/",
+  "restricted_items_url": "https://albastar.es/en/quality-policy/",
+  "battery_policy_url": "https://albastar.es/en/privacy-policy/",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "55 x 40 x 20 cm",
+    "weight_limit": "8 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Quality Policy - Biglietti aerei, Tour Operator, Broker e Associazioni Pellegrinaggi. Vola con Albastar We value your privacy We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies. Cookie Policy Customize Reject All Accept All Customize Consent Preferences We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below. The cookies that are categorized as \"Necessary\" are stored on your browser as they are essential for enabling the basic functionalities of the site. ... Show more Necessary Always Active Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data. Cookie cookieyes-consent Duration 1 year Description CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on their subsequent visits to this site. It does not collect or store any personal information of the site",
+  "notes": ""
+}

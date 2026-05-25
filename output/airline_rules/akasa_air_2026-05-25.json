@@ -1,0 +1,33 @@
+{
+  "airline_name": "Akasa Air",
+  "iata_designator": "QP",
+  "icao_code": "AKJ",
+  "country_territory": "India",
+  "official_site": "https://www.akasaair.com/",
+  "checked_at": "2026-05-25T21:41:58+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.akasaair.com/add-ons/excess-baggage",
+  "restricted_items_url": "https://www.akasaair.com/customer-support",
+  "battery_policy_url": "https://www.akasaair.com/customer-support",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": true,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "15 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": "mentioned",
+    "power_bank_rule": "mentioned",
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Customer Support | Contact us | Akasa Air Open main menu Book Flight Hotels Car Rental Akasa Holidays Book Flight Hotels Car Rental Akasa Holidays Manage Booking Flight Status Change Date Undo Check-in Cancel Booking Email Itinerary Update Contact Details No-Show Refund Refund Status Manage Booking Flight Status Change Date Undo Check-in Cancel Booking Email Itinerary Update Contact Details No-Show Refund Refund Status Check-in Web Check-in App Check-in Auto Check-in Check-in Web Check-in App Check-in Auto Check-in Add-Ons Select Your Seat Extra Seat Café Akasa Seat & Meal Deal Excess Baggage Akasa Priority Pets on Akasa Akasa GetEarly Travel Certificate Lock Your Fare Visa Services Hotels Car Rental Akasa VIP Trip Cover Flexi Cover Flight Delay Cover Akasa Holidays Lounge Delayed or Lost Baggage Add-Ons Select Your Seat Extra Seat Café Akasa Seat & Meal Deal Excess Baggage Akasa Priority Pets on Akasa Akasa GetEarly Travel Certificate Lock Your Fare Visa Services Hotels Car Rental Akasa VIP Trip Cover Flexi Cover Flight Delay Cover Akasa Holidays Lounge Delayed or Lost Baggage Offers Tariff Contact Us Login Customer Login Agent Login SME Login Login Customer Login Agent Login SME",
+  "notes": ""
+}

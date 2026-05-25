@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Baltic",
+  "iata_designator": "BT",
+  "icao_code": "BTI",
+  "country_territory": "Latvia",
+  "official_site": "http://www.airbaltic.lv/",
+  "checked_at": "2026-05-25T21:27:31+00:00",
+  "status": "not_found",
+  "baggage_policy_url": "https://www.airbaltic.com/en/rules-and-regulations/summary-of-air-carrier-liability-for-passengers-and-their-baggage",
+  "restricted_items_url": "https://www.airbaltic.com/en/rules-and-regulations/cookie-policy",
+  "battery_policy_url": "https://www.airbaltic.com/en/rules-and-regulations/cookie-policy",
+  "found_baggage_info": false,
+  "found_restricted_items": false,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": null
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Cookie policy May we personalize this page for you? We use essential cookies to ensure that the site functions properly. All other cookies are optional. With your permission, we can use cookies and other technology to analyse our site's performance, personalize site content and display personalized ads on social media and other channels. If you consent to the use of all cookies, click on “Accept”. To select for what purposes we may process data about your interactions with the site, click on “Adjust selection”. To reject all cookies, except for the essential cookies, click on “Accept only necessary cookies”. More details can be found on our Cookie Policy page. Accept Accept only necessary cookies Adjust selection Confirm selection Necessary (93) (Necessary ) First- and third-party cookies required to ensure website functionality and monitor website performance. The site cannot function properly without these cookies. Personalized website content (49) (Personalized website content) First- and third-party cookies that save your settings for a convenient browsing experience (for instance, language preference and search history). You will see relevant, personalized flight offers. Stati",
+  "notes": ""
+}

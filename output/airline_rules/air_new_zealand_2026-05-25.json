@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air New Zealand",
+  "iata_designator": "NZ",
+  "icao_code": "ANZ",
+  "country_territory": "New Zealand",
+  "official_site": "http://www.airnewzealand.co.nz/",
+  "checked_at": "2026-05-25T21:34:31+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airnewzealand.co.nz/baggage-help",
+  "restricted_items_url": "https://www.airnewzealand.co.nz/restricted-items",
+  "battery_policy_url": "https://www.airnewzealand.co.nz/koru/help",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": true,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "7 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": "acid Phosphorus Fertiliser, weed killer, insecticide Allowed One small packet of safety matches or one small cigarette lighter that does not contain unabsorbed fuel (e.",
+    "matches_rule": "nts, petrol Bleaches, peroxide, acid Phosphorus Fertiliser, weed killer, insecticide Allowed One small packet of safety matches or one small cigarette lighter that does not contain unabsorbed fuel (e."
+  },
+  "prohibited_items_summary": "Carry-on baggage restricted items | Air New Zealand Plan Where we fly New Zealand Australia Pacific Islands USA Canada Asia Trip ideas Baggage Carry-on bags Checked-in baggage Excess baggage Add extra bags Baggage help Baggage services What can I pack? Travel requirements International travel requirements Flight Information Arrivals & departures Cancellations & delays Flight status Flight schedules Travel alerts Airport maps & connections Customer service & tarmac delay plan Special assistance Medical conditions Disability / Accessible travel Special meals & food allergies Travelling with children Children travelling alone Flying when pregnant Fear of flying Book Rental cars Pay Now Flights Accommodation Travel insurance grabaseat™ Use or view your credit All deals Flight deals & best fares Rental car deals Accommodation deals Campervan deals Activity deals Sign up to special offers email Flight deals & best fares Booking options Multi-city bookings Manage bookings Group travel Fare Hold Fare rules Star Alliance Round the World airfares Travel extras Accommodation seatselect OneUp™ upgrades Campervans Taxis Airport valet & parking Events and activities Activity deals Sustainable ac",
+  "notes": ""
+}

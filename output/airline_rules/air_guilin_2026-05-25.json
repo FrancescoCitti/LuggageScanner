@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Guilin",
+  "iata_designator": "GT",
+  "icao_code": "CGH",
+  "country_territory": "China (People's Republic of)",
+  "official_site": "http://www.airguilin.com/",
+  "checked_at": "2026-05-25T21:31:25+00:00",
+  "status": "not_found",
+  "baggage_policy_url": "",
+  "restricted_items_url": "",
+  "battery_policy_url": "",
+  "found_baggage_info": false,
+  "found_restricted_items": false,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": null
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "",
+  "notes": ""
+}

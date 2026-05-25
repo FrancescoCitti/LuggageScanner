@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Transat",
+  "iata_designator": "TS",
+  "icao_code": "TSC",
+  "country_territory": "Canada",
+  "official_site": "http://www.airtransat.com/",
+  "checked_at": "2026-05-25T21:39:02+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airtransat.com/en-CA/legal-notice/crs-booking-and-ticketing-policy",
+  "restricted_items_url": "https://www.airtransat.com/en-CA/legal-notice/crs-booking-and-ticketing-policy",
+  "battery_policy_url": "https://www.airtransat.com/en-CA/legal-notice/crs-booking-and-ticketing-policy",
+  "found_baggage_info": false,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": null
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "CRS Booking and Ticketing Procedures Policy Go to main content. English - CAD Select your language. The current selection is English - CAD America English - CAD Français - CAD English - USD Español - USD Europe Deutsch - EURO English - EURO Español - EURO Français - EURO Italiano - EURO Nederlands - EURO Português - EURO English - GBP 1 active alert. Manage My Booking Main menu. Manage My Booking Book Dropdown Menu : Press the enter key to show the sub-menu Flights Book a flight Our fares Our partnerships Upgrades How to use a travel credit online Vacation Packages All Inclusive South packages Europe packages A la carte Canada package Guided tours See all vacation packages Group travel Group promotions Quote request General information Group payment Our extras Accommodation Car rental Excursions Walt Disney World Resort Theme Parks Tickets Act on your carbon footprint Deals Dropdown Menu : Press the enter key to show the sub-menu Europe flights Last-minute Budget airfare Spring Summer Construction holiday Fall One-way Vacation packages South flights Last-minute Budget airfare Spring Summer Construction holiday Fall Central & South America and the Antilles One-way Vacation Packages",
+  "notes": ""
+}

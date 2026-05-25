@@ -1,0 +1,33 @@
+{
+  "airline_name": "Arajet",
+  "iata_designator": "DM",
+  "icao_code": "DWI",
+  "country_territory": "Dominican Republic",
+  "official_site": "https://new.arajet.com/en-us/home",
+  "checked_at": "2026-05-25T21:45:17+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.arajet.com/en-us/en-us/baggage",
+  "restricted_items_url": "https://www.arajet.com/en-us/privacy",
+  "battery_policy_url": "https://www.arajet.com/en-us/privacy",
+  "found_baggage_info": false,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": null
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Privacy Policies Click here to go to the old website. ENG | USD Deals Booking Book A Flight Hotels & More Share Arabonito Gift Card Promos Promotions Outlet MANAGE / CHECK-IN Flight Status Info Traveling With Arajet WHERE WE FLY Our Fleet Our Fare Bundles Baggages and Extras Onboard Menu Travel Requirements Special Passengers Special Assistance Travel With Children Refund Flex Help Center Help Center Contact Us Forms Travel Insurance Sales Portal Login ENG | USD Privacy Policy General Privacy Policy of Arajet S.A. (herein after, \"Arajet\"). Dominican Republic. This Policy explains how your personal data is collected, stored, used, and disclosed. It also tells you how you can access and update your personal data and make certain choices about how it is used. This Policy encompasses our data collection activities online and by other methods, including Personal Data that we collect through our various channels such as web pages, apps, social networks, points of sale, and events. We inform you that we combine the Personal Data that we collect through different methods. SOURCES OF PERSONAL DATA Personal information is collected through: Websites. Websites directed to the consumer operate",
+  "notes": ""
+}

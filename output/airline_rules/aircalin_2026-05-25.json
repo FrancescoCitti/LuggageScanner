@@ -1,0 +1,33 @@
+{
+  "airline_name": "Aircalin",
+  "iata_designator": "SB",
+  "icao_code": "ACI",
+  "country_territory": "New Caledonia",
+  "official_site": "http://www.aircalin.com/",
+  "checked_at": "2026-05-25T21:40:24+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.aircalin.eu/en/baggages/cabin-baggages",
+  "restricted_items_url": "https://www.aircalin.eu/en/faq",
+  "battery_policy_url": "https://www.aircalin.eu/en/faq",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "55 x 35 x 25 cm",
+    "weight_limit": "7 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "FAQ | Aircalin We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy . You can change your cookie settings at any time by clicking “ Preferences .” Preferences Decline Accept Skip to main content My booking Check-in Flight status Europe New Caledonia France Australia New Zealand French Polynesia Wallis and Futuna Islands Vanuatu Fiji Thailand Singapore Japan U.S.A. Europe Asia Other regions English English Français Explore Discover New Caledonia Travel Worldwide Pacific New Caledonia Australia New Zealand Tahiti Wallis & Futuna Vanuatu Fiji Europe France Brussels England Germany Madrid Netherlands Asia Thailand Japan Bali Bangkok Hong Kong Singapore Hanoi Kuala Lumpur America Los Angeles Hawaii All our destinations Our Airlines Partnerships Inspire me All our destinations Our Airlines Partnerships Inspire me Lagoon of New Caledonia New Caledonia mountain biking All inspirations Book Book See all our special deals Book a flight Freeze the price Seat plus Extra baggage À la carte menus",
+  "notes": ""
+}

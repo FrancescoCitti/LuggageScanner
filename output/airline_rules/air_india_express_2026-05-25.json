@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air India Express",
+  "iata_designator": "IX",
+  "icao_code": "AXB",
+  "country_territory": "India",
+  "official_site": "https://www.airindiaexpress.com/home",
+  "checked_at": "2026-05-25T21:32:05+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airindiaexpress.com/support/faqs/baggage",
+  "restricted_items_url": "https://www.airindiaexpress.com/support/faqs/maharaja-club",
+  "battery_policy_url": "https://www.airindiaexpress.com/support/faqs/maharaja-club",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "56 x 36 x 23 cm",
+    "weight_limit": "32 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "FAQ: DOMESTIC & INTERNATIONAL MAHARAJA CLUB | AIR INDIA EXPRESS INR Cart Login Book & Manage Book and Manage Book Flight Group Booking SME Booking Charter Services Flight Schedule Manage Booking Flight Status Check In Online Request Travel Certificate Know more Download Products & Services Products & Services Add-on Packs Baggage Inflight Services Xpress Journey Advertise With Us Travel Essentials Inglish Dictionary Know more Know more Deals Deals Limited-Time Offers Special Fares Know more Know more Know more Where We Fly Where We Fly Airports Domestic Flights Hyderabad - Bengaluru Bengaluru - Pune Ranchi - Bengaluru Bengaluru - Chennai View All International Flights Dubai - Mangaluru Dubai - Tiruchirappalli Mangaluru - Dubai Kozhikode - Dubai View All Know more Loyalty Loyalty Tata NeuPass Maharaja Club Know more Know more Know more Support Support FAQs Know more +91 6360012345 FAQs Search Home Support FAQs Maharaja Club Maharaja Club Air India Express is now part of the Maharaja Club! Guests can seamlessly earn and redeem Maharaja Points on Air India Express flights, making every journey even more rewarding. Earn Maharaja Points: Now you can earn Maharaja Points and Tier Points",
+  "notes": ""
+}

@@ -1,0 +1,35 @@
+{
+  "airline_name": "Air Astra",
+  "iata_designator": "2A",
+  "icao_code": "AWA",
+  "country_territory": "Bangladesh",
+  "official_site": "https://airastra.com/",
+  "checked_at": "2026-05-25T21:26:44+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://airastra.com/baggage-information",
+  "restricted_items_url": "https://airastra.com/prohibited-items",
+  "battery_policy_url": "https://airastra.com/booking-policy",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": true,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "40 x 60 x 100 cm",
+    "weight_limit": "20 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": [
+      824
+    ],
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Prohibited Items | AIR ASTRA Skip to main content Topbar Menu Login Sign Up Booking Book A Flight Offers & Deals Car Rental Book Online & Save 15% Use Promo Code: AIRASTRA15 Book tickets from Website and Mobile App, Save 15% on base fare. Except blackout dates. More Offer Manage Information Where We Fly Destinations Route Map New Routes Flight Schedule Fly Air Astra Flying Experience Travel Tips Travel Documents Flight Status Flight Notifications Our Aircraft Travel Policies Booking Policy Travel Guideline Baggage Infants and children Prohibited Items Pet Acceptance Policy Book Online & Save 15% Use Promo Code: AIRASTRA15 Book tickets from Website and Mobile App, Save 15% on base fare. Except blackout dates. Book Now Holiday Packages Loyalty About Orbit Benefits of Orbit Earn Miles Spend Miles Membership Membership Tier Reward & Benefits FAQ Join Orbit Join Now Login Flight Status Help Hotline: 13607 +88096 131 13607 Agent Login Booking Book A Flight Offers & Deals Car Rental Manage Holiday Packages Information Where We Fly Destinations Route Map New Routes Flight Schedule Fly Air Astra Flying Experience Travel Tips Travel Documents Flight Status Flight Notifications Our Aircraft T",
+  "notes": ""
+}

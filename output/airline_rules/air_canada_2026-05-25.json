@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Canada",
+  "iata_designator": "AC",
+  "icao_code": "ACA",
+  "country_territory": "Canada",
+  "official_site": "http://www.aircanada.com/",
+  "checked_at": "2026-05-25T21:29:52+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.aircanada.com/it/en/aco/home/plan/baggage/checked.html",
+  "restricted_items_url": "https://www.aircanada.com/it/en/aco/home/plan/baggage/restricted-and-prohibited-items.html",
+  "battery_policy_url": "https://www.aircanada.com/it/en/aco/home/fly/customer-support/cancellation-refund.html",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": true,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "32 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": "Lighters: Only one of the following items , intended for individual use, is permitted when it is carried on one’s person (e.",
+    "matches_rule": "in pocket or purse): One (1) Bic-type butane lighter, OR One (1) USB lighter, OR One (1) book of matches No other type of lighter is accepted in carry-on or checked baggage."
+  },
+  "prohibited_items_summary": "Restricted / Prohibited Items Loading... Skip to homepage Skip to main navigation Skip to content Skip to search field Skip to footer links Skip to site map Skip to contact Search site Find Flight Search Special Offers Book Book Book Travel Routes and Partners Manage Bookings Fare Options and Fees Travel News & Updates Why Book With Us Plan Plan Baggage Check-In Information Travel Requirements Special Assistance Peace of Mind Fly Fly Flight Information On Board Customer Support Premium Services At the Airport Air Canada on your Mobile Aeroplan Aeroplan Aeroplan Overview Earn points Redeem points Aeroplan Elite Status Aeroplan Credit Cards Join Aeroplan Sign in Air Canada for Business Select your edition and language. You are currently on the Italy English edition. You will be billed in euros - € English | € Accessibility Accessibility Select your edition and language. You are currently on the Italy English edition. You will be billed in euros - € English | € Search site Find Hamburger Navigation Book Book Travel Flight Car Airport Transfer Opens in a New Window External site which may not meet accessibility guidelines and/or language preferences. Group Travel Routes and Partners Wh",
+  "notes": ""
+}

@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Botswana",
+  "iata_designator": "BP",
+  "icao_code": "BOT",
+  "country_territory": "Botswana",
+  "official_site": "http://www.airbotswana.co.bw/",
+  "checked_at": "2026-05-25T21:27:56+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airbotswana.co.bw/faqs",
+  "restricted_items_url": "https://www.airbotswana.co.bw/check-policy",
+  "battery_policy_url": "https://www.airbotswana.co.bw/check-policy",
+  "found_baggage_info": true,
+  "found_restricted_items": false,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "20 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Check-in Policy | AirBotswana Skip to main content Home Discover Discover About Us Learn about our aviation legacy. Reputation for Quality Experience our top-tier service and safety. Board of Directors Meet our dedicated leadership team Mission Statement Discover our commitment to air travel excellence. Image Gallery View stunning aicraft and destinations Fleet Explore our modern aircraft fleet. Careers Join Air Botswana dynamic team Important To Know Tenders Learn about procurement opportunities. News Get the latest updates and announcements. Partners Discover our strategic partnerships. Newsletters Stay updated with our latest news and offers. CSI Learn about our Corporate Social Investment initiatives. Conditions of Carriage Understand our terms and conditions for travel. CSI Events Corporate Social Responsibility events Destinations Destinations Cape Town Explore flights to Cape Town, South Africa. Francistown Explore flights to Francistown, Botswana. Harare Explore flights to Harare, Zimbabwe. Johannesburg Explore flights to Johannesburg, South Africa. Kasane Explore flights to Kasane, Botswana. Lusaka Explore flights to Lusaka, Zambia. Maun Explore flights to Maun, Botswana.",
+  "notes": ""
+}

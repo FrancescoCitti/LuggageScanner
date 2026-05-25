@@ -1,0 +1,376 @@
+airline_name,iata_designator,three_digit_code,icao_code,country_territory,iata_member_id,official_site,site_status,site_source,site_checked_at,site_notes
+ABX Air,GB,832,ABX,United States,562,https://www.abxair.com/,resolved,iata_member_page,2026-05-25T20:53:12+00:00,https://www.iata.org/en/about/members/airline-list/abx-air/562/
+Aegean Airlines,A3,390,AEE,Greece,393,http://www.aegeanair.com/,resolved,iata_member_page,2026-05-25T20:53:12+00:00,https://www.iata.org/en/about/members/airline-list/aegean-airlines/393/
+Aer Lingus,EI,053,EIN,Ireland,1,http://www.aerlingus.com/,resolved,iata_member_page,2026-05-25T20:53:13+00:00,https://www.iata.org/en/about/members/airline-list/aer-lingus/1/
+Aero Mongolia,M0,970,MNG,Mongolia,665,https://www.aeromongolia.com/en,resolved,iata_member_page,2026-05-25T20:53:14+00:00,https://www.iata.org/en/about/members/airline-list/aero-mongolia/665/
+Aero Republica,P5,,RPB,Colombia,400,http://www.aerorepublica.com/,resolved,iata_member_page,2026-05-25T20:53:15+00:00,https://www.iata.org/en/about/members/airline-list/aero-republica/400/
+Aeroflot,SU,555,AFL,Russian Federation,42,http://www.aeroflot.ru/,resolved,iata_member_page,2026-05-25T20:53:15+00:00,https://www.iata.org/en/about/members/airline-list/aeroflot/42/
+Aeroitalia,XZ,419,AEZ,Italy,611,https://www.aeroitalia.com/en,resolved,iata_member_page,2026-05-25T20:53:16+00:00,https://www.iata.org/en/about/members/airline-list/aeroitalia/611/
+Aerolineas Argentinas,AR,044,ARG,Argentina,13,http://www.aerolineas.com.ar/,resolved,iata_member_page,2026-05-25T20:53:16+00:00,https://www.iata.org/en/about/members/airline-list/aerolineas-argentinas/13/
+Aeromexico,AM,139,AMX,Mexico,9,http://www.aeromexico.com/,resolved,iata_member_page,2026-05-25T20:53:17+00:00,https://www.iata.org/en/about/members/airline-list/aeromexico/9/
+Africa World Airlines,AW,394,AFW,Ghana,512,http://www.flyafricaworld.com/,resolved,iata_member_page,2026-05-25T20:53:18+00:00,https://www.iata.org/en/about/members/airline-list/africa-world-airlines/512/
+Air Algérie,AH,124,DAH,Algeria,20,http://www.airalgerie.dz/,resolved,iata_member_page,2026-05-25T20:53:19+00:00,https://www.iata.org/en/about/members/airline-list/air-alg-rie/20/
+Air Arabia,G9,514,ABY,United Arab Emirates,429,http://www.airarabia.com/,resolved,iata_member_page,2026-05-25T20:53:19+00:00,https://www.iata.org/en/about/members/airline-list/air-arabia/429/
+Air Astana,KC,465,KZR,Kazakhstan,296,http://www.airastana.com/,resolved,iata_member_page,2026-05-25T20:53:19+00:00,https://www.iata.org/en/about/members/airline-list/air-astana/296/
+Air Astra,2A,610,AWA,Bangladesh,634,https://airastra.com/,resolved,iata_member_page,2026-05-25T20:53:20+00:00,https://www.iata.org/en/about/members/airline-list/air-astra/634/
+Air Atlanta Icelandic,CC,318,ABD,Iceland,618,https://www.airatlanta.com/,resolved,iata_member_page,2026-05-25T20:53:21+00:00,https://www.iata.org/en/about/members/airline-list/air-atlanta-icelandic/618/
+Air Austral,UU,760,REU,France,8,http://www.air-austral.com/,resolved,iata_member_page,2026-05-25T20:53:21+00:00,https://www.iata.org/en/about/members/airline-list/air-austral/8/
+Air Baltic,BT,657,BTI,Latvia,247,http://www.airbaltic.lv/,resolved,iata_member_page,2026-05-25T20:53:22+00:00,https://www.iata.org/en/about/members/airline-list/air-baltic/247/
+Air Botswana,BP,636,BOT,Botswana,5,http://www.airbotswana.co.bw/,resolved,iata_member_page,2026-05-25T20:53:23+00:00,https://www.iata.org/en/about/members/airline-list/air-botswana/5/
+Air Cairo,SM,381,MSC,Egypt,462,http://www.flyaircairo.com/,resolved,iata_member_page,2026-05-25T20:53:23+00:00,https://www.iata.org/en/about/members/airline-list/air-cairo/462/
+Air Caledonie,TY,190,TPC,New Caledonia,445,http://www.air-caledonie.nc/,resolved,iata_member_page,2026-05-25T20:53:24+00:00,https://www.iata.org/en/about/members/airline-list/air-caledonie/445/
+Air Cambodia,K6,188,KHV,Cambodia,501,https://www.aircambodia.com/en/,resolved,iata_member_page,2026-05-25T20:53:25+00:00,https://www.iata.org/en/about/members/airline-list/air-cambodia/501/
+Air Canada,AC,014,ACA,Canada,21,http://www.aircanada.com/,resolved,iata_member_page,2026-05-25T20:53:25+00:00,https://www.iata.org/en/about/members/airline-list/air-canada/21/
+Air Caraibes,TX,427,FWI,Guadeloupe,489,http://www.aircaraibes.com/,resolved,iata_member_page,2026-05-25T20:53:25+00:00,https://www.iata.org/en/about/members/airline-list/air-caraibes/489/
+Air Changan,9H,856,CGN,China (People's Republic of),576,https://www.airchangan.com/,resolved,iata_member_page,2026-05-25T20:53:26+00:00,https://www.iata.org/en/about/members/airline-list/air-changan/576/
+Air China,CA,999,CCA,China (People's Republic of),16,http://www.airchina.com.cn/,resolved,iata_member_page,2026-05-25T20:53:27+00:00,https://www.iata.org/en/about/members/airline-list/air-china/16/
+Air Corsica,XK,146,CCM,France,62,http://www.aircorsica.com/,resolved,iata_member_page,2026-05-25T20:53:27+00:00,https://www.iata.org/en/about/members/airline-list/air-corsica/62/
+Air Dolomiti,EN,101,DLA,Italy,529,http://www.airdolomiti.it/,resolved,iata_member_page,2026-05-25T20:53:28+00:00,https://www.iata.org/en/about/members/airline-list/air-dolomiti/529/
+Air Europa,UX,996,AEA,Spain,200,https://www.aireuropa.com/,resolved,iata_member_page,2026-05-25T20:53:29+00:00,https://www.iata.org/en/about/members/airline-list/air-europa/200/
+Air France,AF,057,AFR,France,7,http://www.airfrance.fr/,resolved,iata_member_page,2026-05-25T20:53:29+00:00,https://www.iata.org/en/about/members/airline-list/air-france/7/
+Air Greenland,GL,631,GRL,Greenland,673,https://www.airgreenland.com/,resolved,iata_member_page,2026-05-25T20:53:30+00:00,https://www.iata.org/en/about/members/airline-list/air-greenland/673/
+Air Guilin,GT,730,CGH,China (People's Republic of),537,http://www.airguilin.com/,resolved,iata_member_page,2026-05-25T20:53:31+00:00,https://www.iata.org/en/about/members/airline-list/air-guilin/537/
+Air Hong Kong,LD,288,AHK,"Hong Kong (SAR), China",607,https://www.airhongkong.com.hk/,resolved,iata_member_page,2026-05-25T20:53:31+00:00,https://www.iata.org/en/about/members/airline-list/air-hong-kong/607/
+Air India,AI,098,AIC,India,61,http://www.airindia.in/,resolved,iata_member_page,2026-05-25T20:53:32+00:00,https://www.iata.org/en/about/members/airline-list/air-india/61/
+Air India Express,IX,236,AXB,India,655,https://www.airindiaexpress.com/home,resolved,iata_member_page,2026-05-25T20:53:33+00:00,https://www.iata.org/en/about/members/airline-list/air-india-express/655/
+Air Koryo,JS,120,KOR,"Korea, Democratic People's Republic of",263,http://www.airkoryo.com.kp/,resolved,iata_member_page,2026-05-25T20:53:33+00:00,https://www.iata.org/en/about/members/airline-list/air-koryo/263/
+Air Macau,NX,675,AMU,"Macao (SAR), China",321,http://www.airmacau.com.mo/,resolved,iata_member_page,2026-05-25T20:53:34+00:00,https://www.iata.org/en/about/members/airline-list/air-macau/321/
+Air Mauritius,MK,239,MAU,Mauritius,29,http://www.airmauritius.com/,resolved,iata_member_page,2026-05-25T20:53:35+00:00,https://www.iata.org/en/about/members/airline-list/air-mauritius/29/
+Air Montenegro,4O,400,MNE,Montenegro,589,https://airmontenegro.com/,resolved,iata_member_page,2026-05-25T20:53:35+00:00,https://www.iata.org/en/about/members/airline-list/air-montenegro/589/
+Air New Zealand,NZ,086,ANZ,New Zealand,24,http://www.airnewzealand.co.nz/,resolved,iata_member_page,2026-05-25T20:53:36+00:00,https://www.iata.org/en/about/members/airline-list/air-new-zealand/24/
+Air Niugini,PX,656,ANG,Papua New Guinea,32,http://www.airniugini.com.pg/,resolved,iata_member_page,2026-05-25T20:53:36+00:00,https://www.iata.org/en/about/members/airline-list/air-niugini/32/
+Air Nostrum,YW,694,ANE,Spain,242,http://www.airnostrum.es/,resolved,iata_member_page,2026-05-25T20:53:37+00:00,https://www.iata.org/en/about/members/airline-list/air-nostrum/242/
+Air Peace,P4,710,APK,Nigeria,500,http://www.flyairpeace.com/,resolved,iata_member_page,2026-05-25T20:53:38+00:00,https://www.iata.org/en/about/members/airline-list/air-peace/500/
+Air Premia,YP,350,APZ,"Korea, Republic of",652,https://www.airpremia.com/,resolved,iata_member_page,2026-05-25T20:53:38+00:00,https://www.iata.org/en/about/members/airline-list/air-premia/652/
+Air Senegal,HC,490,SZN,Senegal,654,https://flyairsenegal.com/en/home/,resolved,iata_member_page,2026-05-25T20:53:38+00:00,https://www.iata.org/en/about/members/airline-list/air-senegal/654/
+Air Serbia,JU,115,ASL,Serbia,94,http://www.airserbia.com/,resolved,iata_member_page,2026-05-25T20:53:39+00:00,https://www.iata.org/en/about/members/airline-list/air-serbia/94/
+Air Seychelles,HM,061,SEY,Seychelles,43,http://www.airseychelles.com/,resolved,iata_member_page,2026-05-25T20:53:40+00:00,https://www.iata.org/en/about/members/airline-list/air-seychelles/43/
+Air Tahiti,VT,135,VTA,French Polynesia,209,http://www.airtahiti.aero/,resolved,iata_member_page,2026-05-25T20:53:40+00:00,https://www.iata.org/en/about/members/airline-list/air-tahiti/209/
+Air Tahiti Nui,TN,244,THT,French Polynesia,294,http://www.airtahitinui.com/,resolved,iata_member_page,2026-05-25T20:53:41+00:00,https://www.iata.org/en/about/members/airline-list/air-tahiti-nui/294/
+Air Tanzania,TC,197,ATC,"Tanzania, United Republic of",34,https://www.airtanzania.co.tz/,resolved,iata_member_page,2026-05-25T20:53:41+00:00,https://www.iata.org/en/about/members/airline-list/air-tanzania/34/
+Air Transat,TS,649,TSC,Canada,377,http://www.airtransat.com/,resolved,iata_member_page,2026-05-25T20:53:42+00:00,https://www.iata.org/en/about/members/airline-list/air-transat/377/
+Air Vanuatu,NF,264,AVN,Vanuatu,23,http://www.airvanuatu.com/,resolved,iata_member_page,2026-05-25T20:53:43+00:00,https://www.iata.org/en/about/members/airline-list/air-vanuatu/23/
+Aircalin,SB,063,ACI,New Caledonia,17,http://www.aircalin.com/,resolved,iata_member_page,2026-05-25T20:53:44+00:00,https://www.iata.org/en/about/members/airline-list/aircalin/17/
+Airhub Airlines,RE,521,GJM,Malta,650,http://www.airhubaviation.com/,resolved,iata_member_page,2026-05-25T20:53:44+00:00,https://www.iata.org/en/about/members/airline-list/airhub-airlines/650/
+Airline GEO SKY,D4,330,GEL,Georgia,625,https://airgeosky.ge/en/,resolved,iata_member_page,2026-05-25T20:53:45+00:00,https://www.iata.org/en/about/members/airline-list/airline-geo-sky/625/
+Airlink,4Z,749,LNK,South Africa,252,http://www.flyairlink.com/,resolved,iata_member_page,2026-05-25T20:53:46+00:00,https://www.iata.org/en/about/members/airline-list/airlink/252/
+AIRZETA,KJ,994,AIH,"Korea, Republic of",632,https://www.airzetacargo.com/,resolved,iata_member_page,2026-05-25T20:53:47+00:00,https://www.iata.org/en/about/members/airline-list/airzeta/632/
+AJet,VF,204,TKJ,Türkiye,663,https://ajet.com/en,resolved,iata_member_page,2026-05-25T20:53:47+00:00,https://www.iata.org/en/about/members/airline-list/ajet/663/
+Akasa Air,QP,516,AKJ,India,662,https://www.akasaair.com/,resolved,iata_member_page,2026-05-25T20:53:48+00:00,https://www.iata.org/en/about/members/airline-list/akasa-air/662/
+Alaska Airlines,AS,027,ASA,United States,31,http://www.alaskaair.com/,resolved,iata_member_page,2026-05-25T20:53:49+00:00,https://www.iata.org/en/about/members/airline-list/alaska-airlines/31/
+Albastar,AP,,LAV,Spain,535,https://www.albastar.es/en/,resolved,iata_member_page,2026-05-25T20:53:49+00:00,https://www.iata.org/en/about/members/airline-list/albastar/535/
+AlMasria Universal Airlines,UJ,110,LMU,Egypt,423,https://almasriaairlines.com/,resolved,iata_member_page,2026-05-25T20:53:50+00:00,https://www.iata.org/en/about/members/airline-list/almasria-universal-airlines/423/
+Amelia,8R,948,AIA,France,580,https://flyamelia.com/en/,resolved,iata_member_page,2026-05-25T20:53:50+00:00,https://www.iata.org/en/about/members/airline-list/amelia/580/
+American Airlines,AA,001,AAL,United States,22,http://www.aa.com/,resolved,iata_member_page,2026-05-25T20:53:51+00:00,https://www.iata.org/en/about/members/airline-list/american-airlines/22/
+ANA,NH,205,ANA,Japan,37,http://www.ana.co.jp/,resolved,iata_member_page,2026-05-25T20:53:52+00:00,https://www.iata.org/en/about/members/airline-list/ana/37/
+APG Airlines,GP,275,RIV,France,553,https://www.apg-airlines.com/search?lang=en_US,resolved,iata_member_page,2026-05-25T20:53:53+00:00,https://www.iata.org/en/about/members/airline-list/apg-airlines/553/
+Arajet,DM,181,DWI,Dominican Republic,661,https://new.arajet.com/en-us/home,resolved,iata_member_page,2026-05-25T20:53:53+00:00,https://www.iata.org/en/about/members/airline-list/arajet/661/
+Arkia Israeli Airlines,IZ,238,AIZ,Israel,286,http://www.arkia.co.il/,resolved,iata_member_page,2026-05-25T20:53:54+00:00,https://www.iata.org/en/about/members/airline-list/arkia-israeli-airlines/286/
+Asiana Airlines,OZ,988,AAR,"Korea, Republic of",329,http://us.flyasiana.com/,resolved,iata_member_page,2026-05-25T20:53:55+00:00,https://www.iata.org/en/about/members/airline-list/asiana-airlines/329/
+ASKY,KP,032,SKK,Togo,555,https://www.flyasky.com/tg/fr,resolved,iata_member_page,2026-05-25T20:53:56+00:00,https://www.iata.org/en/about/members/airline-list/asky/555/
+ASL Airlines Belgium,3V,756,TAY,Belgium,574,https://www.aslairlines.be/,resolved,iata_member_page,2026-05-25T20:53:56+00:00,https://www.iata.org/en/about/members/airline-list/asl-airlines-belgium/574/
+ASL Airlines France,5O,558,FPO,France,548,https://www.aslairlines.fr/en/,resolved,iata_member_page,2026-05-25T20:53:57+00:00,https://www.iata.org/en/about/members/airline-list/asl-airlines-france/548/
+ASL Airlines Ireland,5H,914,ABR,Ireland,575,http://www.aslairlines.ie/,resolved,iata_member_page,2026-05-25T20:53:57+00:00,https://www.iata.org/en/about/members/airline-list/asl-airlines-ireland/575/
+Atlantic Airways,RC,767,FLI,Faroe Islands,522,http://www.atlantic.fo/,resolved,iata_member_page,2026-05-25T20:53:58+00:00,https://www.iata.org/en/about/members/airline-list/atlantic-airways/522/
+Atlas Air,5Y,369,GTI,United States,159,http://www.atlasair.com/,resolved,iata_member_page,2026-05-25T20:53:59+00:00,https://www.iata.org/en/about/members/airline-list/atlas-air/159/
+Austrian,OS,257,AUA,Austria,60,http://www.aua.com/,resolved,iata_member_page,2026-05-25T20:53:59+00:00,https://www.iata.org/en/about/members/airline-list/austrian/60/
+Avianca,AV,134,AVA,Colombia,6,http://www.avianca.com/,resolved,iata_member_page,2026-05-25T20:53:59+00:00,https://www.iata.org/en/about/members/airline-list/avianca/6/
+Avianca Costa Rica,LR,133,LRC,Costa Rica,99,http://www.taca.com/,resolved,iata_member_page,2026-05-25T20:54:00+00:00,https://www.iata.org/en/about/members/airline-list/avianca-costa-rica/99/
+Avianca Ecuador,2K,547,GLG,Ecuador,451,http://www.avianca.com/,resolved,iata_member_page,2026-05-25T20:54:01+00:00,https://www.iata.org/en/about/members/airline-list/avianca-ecuador/451/
+Avion Express,X9,,NVD,Lithuania,594,https://www.avionexpress.aero/,resolved,iata_member_page,2026-05-25T20:54:01+00:00,https://www.iata.org/en/about/members/airline-list/avion-express/594/
+Avion Express Malta,4X,,MLH,Malta,595,https://www.avionexpress.aero/,resolved,iata_member_page,2026-05-25T20:54:02+00:00,https://www.iata.org/en/about/members/airline-list/avion-express-malta/595/
+Azerbaijan Airlines,J2,771,AHY,Azerbaijan,270,http://www.azal.az/,resolved,iata_member_page,2026-05-25T20:54:02+00:00,https://www.iata.org/en/about/members/airline-list/azerbaijan-airlines/270/
+Azores Airlines,S4,331,RZO,Portugal,430,https://www.azoresairlines.pt/en,resolved,iata_member_page,2026-05-25T20:54:03+00:00,https://www.iata.org/en/about/members/airline-list/azores-airlines/430/
+Azul Brazilian Airlines,AD,577,AZU,Brazil,440,http://www.voeazul.com.br/,resolved,iata_member_page,2026-05-25T20:54:04+00:00,https://www.iata.org/en/about/members/airline-list/azul-brazilian-airlines/440/
+Badr Airlines,J4,367,BDR,Sudan,567,https://badrairlines.com/en/index.php,resolved,iata_member_page,2026-05-25T20:54:05+00:00,https://www.iata.org/en/about/members/airline-list/badr-airlines/567/
+Bahamasair,UP,111,BHS,Bahamas,461,http://www.bahamasair.com/,resolved,iata_member_page,2026-05-25T20:54:05+00:00,https://www.iata.org/en/about/members/airline-list/bahamasair/461/
+Bamboo Airways,QH,926,BAV,Vietnam,552,https://www.bambooairways.com/vn-en/,resolved,iata_member_page,2026-05-25T20:54:06+00:00,https://www.iata.org/en/about/members/airline-list/bamboo-airways/552/
+Bangkok Airways,PG,829,BKP,Thailand,328,http://www.bangkokair.com/,resolved,iata_member_page,2026-05-25T20:54:06+00:00,https://www.iata.org/en/about/members/airline-list/bangkok-airways/328/
+Batik Air,ID,938,BTK,Indonesia,511,https://www.batikair.com/,resolved,iata_member_page,2026-05-25T20:54:07+00:00,https://www.iata.org/en/about/members/airline-list/batik-air/511/
+Batik Air Malaysia,OD,816,MXD,Malaysia,491,http://www.malindoair.com/,resolved,iata_member_page,2026-05-25T20:54:08+00:00,https://www.iata.org/en/about/members/airline-list/batik-air-malaysia/491/
+BBN Airlines,B5,386,BBT,Türkiye,647,https://bbnairlines.aero/,resolved,iata_member_page,2026-05-25T20:54:08+00:00,https://www.iata.org/en/about/members/airline-list/bbn-airlines/647/
+Belavia Belarusian Airlines,B2,,BRU,Belarus,157,http://www.belavia.by/,resolved,iata_member_page,2026-05-25T20:54:09+00:00,https://www.iata.org/en/about/members/airline-list/belavia-belarusian-airlines/157/
+Biman Bangladesh Airlines,BG,997,BBC,Bangladesh,47,http://www.biman-airlines.com/,resolved,iata_member_page,2026-05-25T20:54:10+00:00,https://www.iata.org/en/about/members/airline-list/biman-bangladesh-airlines/47/
+Binter Canarias,NT,474,IBB,Spain,289,http://www.bintercanarias.com/,resolved,iata_member_page,2026-05-25T20:54:10+00:00,https://www.iata.org/en/about/members/airline-list/binter-canarias/289/
+Blue Bird Airways,BZ,404,BBG,Greece,636,https://www.bluebirdair.com/en,resolved,iata_member_page,2026-05-25T20:54:11+00:00,https://www.iata.org/en/about/members/airline-list/blue-bird-airways/636/
+BoA Boliviana de Aviacion,OB,930,BOV,Bolivia,454,http://www.boa.bo/,resolved,iata_member_page,2026-05-25T20:54:12+00:00,https://www.iata.org/en/about/members/airline-list/boa-boliviana-de-aviacion/454/
+Braathens Regional Airways,TF*,276,BRX,Sweden,340,https://www.flygbra.se/#m,resolved,iata_member_page,2026-05-25T20:54:12+00:00,https://www.iata.org/en/about/members/airline-list/braathens-regional-airways/340/
+British Airways,BA,125,BAW,United Kingdom,52,http://www.britishairways.com/,resolved,iata_member_page,2026-05-25T20:54:13+00:00,https://www.iata.org/en/about/members/airline-list/british-airways/52/
+Brussels Airlines,SN,082,BEL,Belgium,327,http://www.brusselsairlines.com/,resolved,iata_member_page,2026-05-25T20:54:13+00:00,https://www.iata.org/en/about/members/airline-list/brussels-airlines/327/
+Bulgaria Air,FB,623,LZB,Bulgaria,379,http://www.air.bg/,resolved,iata_member_page,2026-05-25T20:54:14+00:00,https://www.iata.org/en/about/members/airline-list/bulgaria-air/379/
+Camair-Co,QC,040,CRC,Cameroon,481,http://www.camair-co.cm/,resolved,iata_member_page,2026-05-25T20:54:15+00:00,https://www.iata.org/en/about/members/airline-list/camair-co/481/
+Capital Airlines,JD,898,CBJ,China (People's Republic of),477,http://www.jdair.net/,resolved,iata_member_page,2026-05-25T20:54:15+00:00,https://www.iata.org/en/about/members/airline-list/capital-airlines/477/
+Cargojet Airways,W8,489,CJT,Canada,298,http://www.cargojet.com/,resolved,iata_member_page,2026-05-25T20:54:16+00:00,https://www.iata.org/en/about/members/airline-list/cargojet-airways/298/
+Cargolux,CV,172,CLX,Luxembourg,273,http://www.cargolux.com/,resolved,iata_member_page,2026-05-25T20:54:17+00:00,https://www.iata.org/en/about/members/airline-list/cargolux/273/
+Caribbean Airlines,BW,106,BWA,Trinidad and Tobago,385,http://www.caribbean-airlines.com/,resolved,iata_member_page,2026-05-25T20:54:17+00:00,https://www.iata.org/en/about/members/airline-list/caribbean-airlines/385/
+Carpatair,V3,021,KRP,Romania,460,http://www.carpatair.com/,resolved,iata_member_page,2026-05-25T20:54:18+00:00,https://www.iata.org/en/about/members/airline-list/carpatair/460/
+Cathay Pacific,CX,160,CPA,"Hong Kong (SAR), China",64,http://www.cathaypacific.com/,resolved,iata_member_page,2026-05-25T20:54:19+00:00,https://www.iata.org/en/about/members/airline-list/cathay-pacific/64/
+Cebu Pacific,5J,203,CEB,Philippines,540,https://www.cebupacificair.com/,resolved,iata_member_page,2026-05-25T20:54:19+00:00,https://www.iata.org/en/about/members/airline-list/cebu-pacific/540/
+CemAir,5Z,225,KEM,South Africa,584,https://www.flycemair.co.za/,resolved,iata_member_page,2026-05-25T20:54:20+00:00,https://www.iata.org/en/about/members/airline-list/cemair/584/
+Chair Airlines,CS,581,CSW,Switzerland,659,https://www.chair.ch/,resolved,iata_member_page,2026-05-25T20:54:21+00:00,https://www.iata.org/en/about/members/airline-list/chair-airlines/659/
+Chalair,CE,980,CLG,France,591,https://www.chalair.fr/,resolved,iata_member_page,2026-05-25T20:54:21+00:00,https://www.iata.org/en/about/members/airline-list/chalair/591/
+Challenge Airlines (BE),X7,744,CHG,Belgium,582,https://www.challenge-airlines.be/,resolved,iata_member_page,2026-05-25T20:54:22+00:00,https://www.iata.org/en/about/members/airline-list/challenge-airlines-be/582/
+Challenge Airlines (IL),5C,700,ICL,Israel,315,http://www.cal.co.il/,resolved,iata_member_page,2026-05-25T20:54:22+00:00,https://www.iata.org/en/about/members/airline-list/challenge-airlines-il/315/
+China Airlines,CI,297,CAL,Chinese Taipei,341,http://www.china-airlines.com/,resolved,iata_member_page,2026-05-25T20:54:23+00:00,https://www.iata.org/en/about/members/airline-list/china-airlines/341/
+China Cargo Airlines,CK,112,CKK,China (People's Republic of),297,https://www.ckair.com/index.html,resolved,iata_member_page,2026-05-25T20:54:23+00:00,https://www.iata.org/en/about/members/airline-list/china-cargo-airlines/297/
+China Eastern,MU,781,CES,China (People's Republic of),58,http://www.ceair.com/,resolved,iata_member_page,2026-05-25T20:54:24+00:00,https://www.iata.org/en/about/members/airline-list/china-eastern/58/
+China Express Airlines,G5,987,HXA,China (People's Republic of),480,http://www.chinaexpressair.com/,resolved,iata_member_page,2026-05-25T20:54:24+00:00,https://www.iata.org/en/about/members/airline-list/china-express-airlines/480/
+China Postal Airlines,CF,804,CYZ,China (People's Republic of),448,http://www.cnpostair.com/,resolved,iata_member_page,2026-05-25T20:54:25+00:00,https://www.iata.org/en/about/members/airline-list/china-postal-airlines/448/
+China Southern Airlines,CZ,784,CSN,China (People's Republic of),54,https://global.csair.com/,resolved,iata_member_page,2026-05-25T20:54:25+00:00,https://www.iata.org/en/about/members/airline-list/china-southern-airlines/54/
+China United Airlines,KN,822,CUA,China (People's Republic of),633,https://www.flycua.com/,resolved,iata_member_page,2026-05-25T20:54:26+00:00,https://www.iata.org/en/about/members/airline-list/china-united-airlines/633/
+Citilink,QG,629,CTV,Indonesia,658,https://www.citilink.co.id/,resolved,iata_member_page,2026-05-25T20:54:26+00:00,https://www.iata.org/en/about/members/airline-list/citilink/658/
+CityJet,WX,689,BCY,Ireland,226,http://www.cityjet.com/,resolved,iata_member_page,2026-05-25T20:54:27+00:00,https://www.iata.org/en/about/members/airline-list/cityjet/226/
+Clic Air,VE,246,EFY,Colombia,608,https://clicair.co/,resolved,iata_member_page,2026-05-25T20:54:28+00:00,https://www.iata.org/en/about/members/airline-list/clic-air/608/
+Condor,DE,881,CFG,Germany,392,http://www.condor.com/,resolved,iata_member_page,2026-05-25T20:54:28+00:00,https://www.iata.org/en/about/members/airline-list/condor/392/
+COPA Airlines,CM,230,CMP,Panama,70,http://www.copaair.com/,resolved,iata_member_page,2026-05-25T20:54:29+00:00,https://www.iata.org/en/about/members/airline-list/copa-airlines/70/
+Corendon Airlines,XC,395,CAI,Türkiye,456,http://www.corendon-airlines.com/,resolved,iata_member_page,2026-05-25T20:54:30+00:00,https://www.iata.org/en/about/members/airline-list/corendon-airlines/456/
+Corsair International,SS,923,CRL,France,304,https://www.corsair.fr/,resolved,iata_member_page,2026-05-25T20:54:30+00:00,https://www.iata.org/en/about/members/airline-list/corsair-international/304/
+Croatia Airlines,OU,831,CTN,Croatia,63,http://www.croatiaairlines.com/,resolved,iata_member_page,2026-05-25T20:54:31+00:00,https://www.iata.org/en/about/members/airline-list/croatia-airlines/63/
+Cubana,CU,136,CUB,Cuba,68,http://www.cubana.cu/,resolved,iata_member_page,2026-05-25T20:54:31+00:00,https://www.iata.org/en/about/members/airline-list/cubana/68/
+Cyprus Airways,CY,078,CYP,Cyprus,521,http://www.cyprusairways.com/,resolved,iata_member_page,2026-05-25T20:54:32+00:00,https://www.iata.org/en/about/members/airline-list/cyprus-airways/521/
+DAN AIR,DN,,DNA,Romania,635,https://danair.ro/en,resolved,iata_member_page,2026-05-25T20:54:32+00:00,https://www.iata.org/en/about/members/airline-list/dan-air/635/
+DAT (LT),R6*,,DNU,Lithuania,616,https://dat.dk/,resolved,iata_member_page,2026-05-25T20:54:33+00:00,https://www.iata.org/en/about/members/airline-list/dat-lt/616/
+Delta Air Lines,DL,006,DAL,United States,72,http://www.delta.com/,resolved,iata_member_page,2026-05-25T20:54:33+00:00,https://www.iata.org/en/about/members/airline-list/delta-air-lines/72/
+DHL Air,D0,936,DHK,United Kingdom,358,http://www.dhl.com/,resolved,iata_member_page,2026-05-25T20:54:34+00:00,https://www.iata.org/en/about/members/airline-list/dhl-air/358/
+DHL Air (Bahrain),ES*,155,DHX,Bahrain,151,http://www.dhl.com/splash.html,resolved,iata_member_page,2026-05-25T20:54:34+00:00,https://www.iata.org/en/about/members/airline-list/dhl-air-bahrain/151/
+Discover Airlines,4Y,693,OCN,Germany,610,https://www.discover-airlines.com/en/,resolved,iata_member_page,2026-05-25T20:54:35+00:00,https://www.iata.org/en/about/members/airline-list/discover-airlines/610/
+Domestic Airlines,SF,515,DTH,Algeria,319,http://www.tassiliairlines.dz/index.php?lang=fr,resolved,iata_member_page,2026-05-25T20:54:35+00:00,https://www.iata.org/en/about/members/airline-list/domestic-airlines/319/
+Eastar Jet,ZE,839,ESR,"Korea, Republic of",672,https://main.eastarjet.com/,resolved,iata_member_page,2026-05-25T20:54:36+00:00,https://www.iata.org/en/about/members/airline-list/eastar-jet/672/
+Eastern Airlines,2D*,,,United States,566,https://iflyea.com/,resolved,iata_member_page,2026-05-25T20:54:36+00:00,https://www.iata.org/en/about/members/airline-list/eastern-airlines/566/
+Edelweiss Air,WK,945,EDW,Switzerland,577,https://www.flyedelweiss.com/,resolved,iata_member_page,2026-05-25T20:54:37+00:00,https://www.iata.org/en/about/members/airline-list/edelweiss-air/577/
+Egyptair,MS,077,MSR,Egypt,75,http://www.egyptair.com.eg/,resolved,iata_member_page,2026-05-25T20:54:37+00:00,https://www.iata.org/en/about/members/airline-list/egyptair/75/
+EL AL,LY,114,ELY,Israel,80,http://www.elal.co.il/,resolved,iata_member_page,2026-05-25T20:54:38+00:00,https://www.iata.org/en/about/members/airline-list/el-al/80/
+Electra Airways,3E,,EAF,Bulgaria,639,https://www.electra-airways.com/,resolved,iata_member_page,2026-05-25T20:54:39+00:00,https://www.iata.org/en/about/members/airline-list/electra-airways/639/
+Emirates,EK,176,UAE,United Arab Emirates,73,https://www.emirates.com/,resolved,iata_member_page,2026-05-25T20:54:40+00:00,https://www.iata.org/en/about/members/airline-list/emirates/73/
+Estafeta Cargo,E7,355,ESF,Mexico,645,https://www.estafeta.com/home,resolved,iata_member_page,2026-05-25T20:54:40+00:00,https://www.iata.org/en/about/members/airline-list/estafeta-cargo/645/
+Ethiopian Airlines,ET,071,ETH,Ethiopia,83,http://www.ethiopianairlines.com/,resolved,iata_member_page,2026-05-25T20:54:41+00:00,https://www.iata.org/en/about/members/airline-list/ethiopian-airlines/83/
+Etihad Airways,EY,607,ETD,United Arab Emirates,292,http://www.etihadairways.com/,resolved,iata_member_page,2026-05-25T20:54:56+00:00,https://www.iata.org/en/about/members/airline-list/etihad-airways/292/
+EuroAtlantic Airways,YU,551,MMZ,Portugal,408,http://www.euroatlantic.pt/,resolved,iata_member_page,2026-05-25T20:54:57+00:00,https://www.iata.org/en/about/members/airline-list/euroatlantic-airways/408/
+European Air Transport,QY,615,BCS,Germany,534,http://www.dhl.com/,resolved,iata_member_page,2026-05-25T20:54:57+00:00,https://www.iata.org/en/about/members/airline-list/european-air-transport/534/
+Eurowings,EW,104,EWG,Germany,87,http://www.eurowings.de/,resolved,iata_member_page,2026-05-25T20:54:58+00:00,https://www.iata.org/en/about/members/airline-list/eurowings/87/
+EVA Air,BR,695,EVA,Chinese Taipei,357,http://www.evaair.com/,resolved,iata_member_page,2026-05-25T20:54:58+00:00,https://www.iata.org/en/about/members/airline-list/eva-air/357/
+Fastjet Zimbabwe,FN,334,FJW,Zimbabwe,644,https://www.fastjet.com/,resolved,iata_member_page,2026-05-25T20:54:59+00:00,https://www.iata.org/en/about/members/airline-list/fastjet-zimbabwe/644/
+FedEx Express,FX,023,FDX,United States,84,http://www.fedex.com/,resolved,iata_member_page,2026-05-25T20:55:00+00:00,https://www.iata.org/en/about/members/airline-list/fedex-express/84/
+Fiji Airways,FJ,260,FJI,Fiji,28,http://www.fijiairways.com/,resolved,iata_member_page,2026-05-25T20:55:00+00:00,https://www.iata.org/en/about/members/airline-list/fiji-airways/28/
+Finnair,AY,105,FIN,Finland,86,http://www.finnair.fi/,resolved,iata_member_page,2026-05-25T20:55:01+00:00,https://www.iata.org/en/about/members/airline-list/finnair/86/
+FlexFlight,W2,365,FXT,Denmark,627,https://flexflight.dk/,resolved,iata_member_page,2026-05-25T20:55:01+00:00,https://www.iata.org/en/about/members/airline-list/flexflight/627/
+Fly Baghdad,IF,017,FBA,Iraq,569,http://www.flybaghdad.net/en/,resolved,iata_member_page,2026-05-25T20:55:02+00:00,https://www.iata.org/en/about/members/airline-list/fly-baghdad/569/
+Fly Namibia,WV,,FLN,Namibia,593,https://flynam.com/,resolved,iata_member_page,2026-05-25T20:55:02+00:00,https://www.iata.org/en/about/members/airline-list/fly-namibia/593/
+Fly2Sky,F6*,,VAW,Bulgaria,643,https://www.fly2sky.aero/,resolved,iata_member_page,2026-05-25T20:55:03+00:00,https://www.iata.org/en/about/members/airline-list/fly2sky/643/
+flyadeal,F3,560,FAD,Saudi Arabia,640,https://www.flyadeal.com/en,resolved,iata_member_page,2026-05-25T20:55:03+00:00,https://www.iata.org/en/about/members/airline-list/flyadeal/640/
+flydubai,FZ,141,FDB,United Arab Emirates,474,http://www.flydubai.com/,resolved,iata_member_page,2026-05-25T20:55:04+00:00,https://www.iata.org/en/about/members/airline-list/flydubai/474/
+FlyGabon,J7,277,ABS,Gabon,579,https://www.flygabon.online/en,resolved,iata_member_page,2026-05-25T20:55:04+00:00,https://www.iata.org/en/about/members/airline-list/flygabon/579/
+Flynas,XY,593,KNE,Saudi Arabia,551,https://www.flynas.com/en,resolved,iata_member_page,2026-05-25T20:55:05+00:00,https://www.iata.org/en/about/members/airline-list/flynas/551/
+FLYONE,5F,130,FIA,"Moldova, Republic of",571,https://flyone.eu/en/,resolved,iata_member_page,2026-05-25T20:55:05+00:00,https://www.iata.org/en/about/members/airline-list/flyone/571/
+Freebird Airlines,FH,None,FHY,Türkiye,383,http://www.freebirdairlines.com/,resolved,iata_member_page,2026-05-25T20:55:06+00:00,https://www.iata.org/en/about/members/airline-list/freebird-airlines/383/
+French Bee,BF,396,FBU,France,559,https://www.frenchbee.com/fr,resolved,iata_member_page,2026-05-25T20:55:06+00:00,https://www.iata.org/en/about/members/airline-list/french-bee/559/
+Fuzhou Airlines,FU,666,FZA,China (People's Republic of),527,http://www.fuzhou-air.cn/,resolved,iata_member_page,2026-05-25T20:55:07+00:00,https://www.iata.org/en/about/members/airline-list/fuzhou-airlines/527/
+Garuda Indonesia,GA,126,GIA,Indonesia,77,http://www.garuda-indonesia.com/,resolved,iata_member_page,2026-05-25T20:55:07+00:00,https://www.iata.org/en/about/members/airline-list/garuda-indonesia/77/
+Georgian Airways,A9,606,TGZ,Georgia,405,http://www.georgian-airways.com/,resolved,iata_member_page,2026-05-25T20:55:07+00:00,https://www.iata.org/en/about/members/airline-list/georgian-airways/405/
+German Airways,ZQ,944,GER,Germany,516,https://germanairways.com/,resolved,iata_member_page,2026-05-25T20:55:08+00:00,https://www.iata.org/en/about/members/airline-list/german-airways/516/
+GetJet Airlines,GW*,059,GJT,Lithuania,622,https://getjet.aero/,resolved,iata_member_page,2026-05-25T20:55:08+00:00,https://www.iata.org/en/about/members/airline-list/getjet-airlines/622/
+Global Airways and Lift,GE,698,GBB,South Africa,660,https://g-airways.com/,resolved,iata_member_page,2026-05-25T20:55:09+00:00,https://www.iata.org/en/about/members/airline-list/global-airways-and-lift/660/
+GlobalX,G6,402,GXA,United States,585,https://globalairlinesgroup.com/,resolved,iata_member_page,2026-05-25T20:55:10+00:00,https://www.iata.org/en/about/members/airline-list/globalx/585/
+GOL Linhas Aereas,G3,127,GLO,Brazil,406,http://www.voegol.com.br/,resolved,iata_member_page,2026-05-25T20:55:10+00:00,https://www.iata.org/en/about/members/airline-list/gol-linhas-aereas/406/
+Greater Bay Airlines,HB,283,HGB,"Hong Kong (SAR), China",613,https://www.greaterbay-airlines.com/,resolved,iata_member_page,2026-05-25T20:55:11+00:00,https://www.iata.org/en/about/members/airline-list/greater-bay-airlines/613/
+Gulf Air,GF,072,GFA,Bahrain,88,https://www.gulfair.com/,resolved,iata_member_page,2026-05-25T20:55:11+00:00,https://www.iata.org/en/about/members/airline-list/gulf-air/88/
+GX Airlines,GX,872,CBG,China (People's Republic of),492,http://www.gxairlines.com/,resolved,iata_member_page,2026-05-25T20:55:12+00:00,https://www.iata.org/en/about/members/airline-list/gx-airlines/492/
+Hahnair,HR*,169,HHN,Germany,332,https://www.hahnair.com/,resolved,iata_member_page,2026-05-25T20:55:12+00:00,https://www.iata.org/en/about/members/airline-list/hahnair/332/
+Hainan Airlines,HU,880,CHH,China (People's Republic of),318,https://www.hainanairlines.com/,resolved,iata_member_page,2026-05-25T20:55:13+00:00,https://www.iata.org/en/about/members/airline-list/hainan-airlines/318/
+Hawaiian Airlines,HA,173,HAL,United States,395,http://www.hawaiianair.com/,resolved,iata_member_page,2026-05-25T20:55:14+00:00,https://www.iata.org/en/about/members/airline-list/hawaiian-airlines/395/
+Hebei Airlines,NS,836,HBH,China (People's Republic of),488,http://www.hbhk.com.cn/,resolved,iata_member_page,2026-05-25T20:55:14+00:00,https://www.iata.org/en/about/members/airline-list/hebei-airlines/488/
+Hello Jets,H3,,HLJ,Romania,602,https://www.hellojets.com/,resolved,iata_member_page,2026-05-25T20:55:15+00:00,https://www.iata.org/en/about/members/airline-list/hello-jets/602/
+Heston Airlines,HN*,,HST,Lithuania,604,https://heston.aero/,resolved,iata_member_page,2026-05-25T20:55:15+00:00,https://www.iata.org/en/about/members/airline-list/heston-airlines/604/
+Hi Fly,5K*,,HFY,Portugal,437,http://www.hifly.aero/,resolved,iata_member_page,2026-05-25T20:55:16+00:00,https://www.iata.org/en/about/members/airline-list/hi-fly/437/
+Hi Fly (Malta),3L*,,HFM,Malta,606,https://hifly.aero/,resolved,iata_member_page,2026-05-25T20:55:16+00:00,https://www.iata.org/en/about/members/airline-list/hi-fly-malta/606/
+Himalaya Airlines,H9,769,HIM,Nepal,609,https://www.himalaya-airlines.com/,resolved,iata_member_page,2026-05-25T20:55:17+00:00,https://www.iata.org/en/about/members/airline-list/himalaya-airlines/609/
+Hong Kong Air Cargo,RH,828,HKC,"Hong Kong (SAR), China",510,http://www.hkaircargo.com/,resolved,iata_member_page,2026-05-25T20:55:18+00:00,https://www.iata.org/en/about/members/airline-list/hong-kong-air-cargo/510/
+Hong Kong Airlines,HX,851,CRK,"Hong Kong (SAR), China",403,http://www.hkairlines.com/,resolved,iata_member_page,2026-05-25T20:55:18+00:00,https://www.iata.org/en/about/members/airline-list/hong-kong-airlines/403/
+Hong Kong Express Airways,UO,128,HKE,"Hong Kong (SAR), China",439,https://www.hkexpress.com/,resolved,iata_member_page,2026-05-25T20:55:19+00:00,https://www.iata.org/en/about/members/airline-list/hong-kong-express-airways/439/
+IBERIA,IB,075,IBE,Spain,412,http://www.iberia.com/,resolved,iata_member_page,2026-05-25T20:55:19+00:00,https://www.iata.org/en/about/members/airline-list/iberia/412/
+Iberojet,6O,182,OBS,Portugal,656,https://www.iberojet.com/,resolved,iata_member_page,2026-05-25T20:55:20+00:00,https://www.iata.org/en/about/members/airline-list/iberojet/656/
+Iberojet Airlines,E9,783,EVE,Spain,513,http://www.evelop.com/,resolved,iata_member_page,2026-05-25T20:55:21+00:00,https://www.iata.org/en/about/members/airline-list/iberojet-airlines/513/
+Ibom Air,QI,,IAN,Nigeria,590,https://www.ibomair.com/,resolved,iata_member_page,2026-05-25T20:55:21+00:00,https://www.iata.org/en/about/members/airline-list/ibom-air/590/
+Icelandair,FI,108,ICE,Iceland,92,https://www.icelandair.com/en-gb/,resolved,iata_member_page,2026-05-25T20:55:21+00:00,https://www.iata.org/en/about/members/airline-list/icelandair/92/
+Ikar,EO,770,KAR,Russian Federation,495,http://pegasfly.ru/,resolved,iata_member_page,2026-05-25T20:55:22+00:00,https://www.iata.org/en/about/members/airline-list/ikar/495/
+IndiGo,6E,312,IGO,India,545,https://www.goindigo.in/,resolved,iata_member_page,2026-05-25T20:55:22+00:00,https://www.iata.org/en/about/members/airline-list/indigo/545/
+Iran Air,IR,096,IRA,"Iran, Islamic Republic of",102,http://www.iranair.com/,resolved,iata_member_page,2026-05-25T20:55:23+00:00,https://www.iata.org/en/about/members/airline-list/iran-air/102/
+Iran Airtour Airline,B9,491,IRB,"Iran, Islamic Republic of",498,http://www.iat.aero/,resolved,iata_member_page,2026-05-25T20:55:24+00:00,https://www.iata.org/en/about/members/airline-list/iran-airtour-airline/498/
+Iran Aseman Airlines,EP,815,IRC,"Iran, Islamic Republic of",158,http://www.iaa.ir/,resolved,iata_member_page,2026-05-25T20:55:24+00:00,https://www.iata.org/en/about/members/airline-list/iran-aseman-airlines/158/
+Israir,6H,818,ISR,Israel,344,https://www.israir.co.il/,resolved,iata_member_page,2026-05-25T20:55:25+00:00,https://www.iata.org/en/about/members/airline-list/israir/344/
+ITA Airways,AZ,055,ITY,Italy,565,http://www.ita-airways.com/,resolved,iata_member_page,2026-05-25T20:55:25+00:00,https://www.iata.org/en/about/members/airline-list/ita-airways/565/
+Japan Airlines,JL,131,JAL,Japan,93,http://www.jal.co.jp/,resolved,iata_member_page,2026-05-25T20:55:26+00:00,https://www.iata.org/en/about/members/airline-list/japan-airlines/93/
+Japan Transocean Air,NU,353,JTA,Japan,558,https://jta-okinawa.com/,resolved,iata_member_page,2026-05-25T20:55:27+00:00,https://www.iata.org/en/about/members/airline-list/japan-transocean-air/558/
+Jazeera Airways,J9,486,JZR,Kuwait,414,http://www.jazeeraairways.com/,resolved,iata_member_page,2026-05-25T20:55:27+00:00,https://www.iata.org/en/about/members/airline-list/jazeera-airways/414/
+JD Airlines,JG,619,JDL,China (People's Republic of),637,https://www.jdairlines.com/,resolved,iata_member_page,2026-05-25T20:55:28+00:00,https://www.iata.org/en/about/members/airline-list/jd-airlines/637/
+Jeju Air,7C,806,JJA,"Korea, Republic of",531,http://www.jejuair.net/,resolved,iata_member_page,2026-05-25T20:55:29+00:00,https://www.iata.org/en/about/members/airline-list/jeju-air/531/
+JetBlue,B6,279,JBU,United States,399,http://www.jetblue.com/,resolved,iata_member_page,2026-05-25T20:55:29+00:00,https://www.iata.org/en/about/members/airline-list/jetblue/399/
+JetSMART Argentina,WJ,974,JES,Argentina,667,https://jetsmart.com/,resolved,iata_member_page,2026-05-25T20:55:30+00:00,https://www.iata.org/en/about/members/airline-list/jetsmart-argentina/667/
+JetSMART Chile,JA,973,JAT,Chile,666,https://jetsmart.com/us/en/,resolved,iata_member_page,2026-05-25T20:55:30+00:00,https://www.iata.org/en/about/members/airline-list/jetsmart-chile/666/
+JetSMART Colombia,J6,984,JEC,Colombia,674,https://jetsmart.com/us/en/,resolved,iata_member_page,2026-05-25T20:55:31+00:00,https://www.iata.org/en/about/members/airline-list/jetsmart-colombia/674/
+JetSMART Peru,JZ,981,JAP,Peru,668,https://www.jetsmart.com/,resolved,iata_member_page,2026-05-25T20:55:32+00:00,https://www.iata.org/en/about/members/airline-list/jetsmart-peru/668/
+Jettime,JP*,,JTD,Denmark,653,https://jettime.com/,resolved,iata_member_page,2026-05-25T20:55:32+00:00,https://www.iata.org/en/about/members/airline-list/jettime/653/
+Jin Air,LJ,718,JNA,"Korea, Republic of",494,https://www.jinair.com/,resolved,iata_member_page,2026-05-25T20:55:33+00:00,https://www.iata.org/en/about/members/airline-list/jin-air/494/
+Jordan Aviation,R5,151,JAV,Jordan,372,http://www.jordanaviation.jo/,resolved,iata_member_page,2026-05-25T20:55:33+00:00,https://www.iata.org/en/about/members/airline-list/jordan-aviation/372/
+Juneyao Airlines,HO,018,DKH,China (People's Republic of),433,http://www.juneyaoair.com/,resolved,iata_member_page,2026-05-25T20:55:34+00:00,https://www.iata.org/en/about/members/airline-list/juneyao-airlines/433/
+Kam Air,RQ,384,KMF,Afghanistan,560,https://www.kamair.com/,resolved,iata_member_page,2026-05-25T20:55:34+00:00,https://www.iata.org/en/about/members/airline-list/kam-air/560/
+Kenya Airways,KQ,706,KQA,Kenya,103,http://www.kenya-airways.com/,resolved,iata_member_page,2026-05-25T20:55:35+00:00,https://www.iata.org/en/about/members/airline-list/kenya-airways/103/
+KlasJet,KJ*,,KLJ,Lithuania,648,https://klasjet.aero/,resolved,iata_member_page,2026-05-25T20:55:53+00:00,https://www.iata.org/en/about/members/airline-list/klasjet/648/
+KLM,KL,074,KLM,Netherlands,109,http://www.klm.com/,resolved,iata_member_page,2026-05-25T20:55:53+00:00,https://www.iata.org/en/about/members/airline-list/klm/109/
+KM Malta Airlines,KM,643,KMM,Malta,615,https://kmmaltairlines.com/en,resolved,iata_member_page,2026-05-25T20:55:54+00:00,https://www.iata.org/en/about/members/airline-list/km-malta-airlines/615/
+Korean Air,KE,180,KAL,"Korea, Republic of",96,http://www.koreanair.com/,resolved,iata_member_page,2026-05-25T20:55:54+00:00,https://www.iata.org/en/about/members/airline-list/korean-air/96/
+Kunming Airlines,KY,833,KNA,China (People's Republic of),496,https://www.airkunming.com/,resolved,iata_member_page,2026-05-25T20:55:55+00:00,https://www.iata.org/en/about/members/airline-list/kunming-airlines/496/
+Kuwait Airways,KU,229,KAC,Kuwait,106,http://www.kuwait-airways.com/,resolved,iata_member_page,2026-05-25T20:55:55+00:00,https://www.iata.org/en/about/members/airline-list/kuwait-airways/106/
+La Compagnie,B0,002,DJT,France,573,https://www.lacompagnie.com/en,resolved,iata_member_page,2026-05-25T20:55:56+00:00,https://www.iata.org/en/about/members/airline-list/la-compagnie/573/
+LAM,TM,068,LAM,Mozambique,101,http://www.lam.co.mz/,resolved,iata_member_page,2026-05-25T20:55:56+00:00,https://www.iata.org/en/about/members/airline-list/lam/101/
+Lao Airlines,QV,627,LAO,Lao PDR,487,http://www.laoairlines.com/,resolved,iata_member_page,2026-05-25T20:55:57+00:00,https://www.iata.org/en/about/members/airline-list/lao-airlines/487/
+LATAM Airlines Brasil,JJ,957,TAM,Brazil,281,http://www.tam.com.br/,resolved,iata_member_page,2026-05-25T20:55:57+00:00,https://www.iata.org/en/about/members/airline-list/latam-airlines-brasil/281/
+LATAM Airlines Colombia,4C,035,ARE,Colombia,505,http://www.lan.com/,resolved,iata_member_page,2026-05-25T20:55:58+00:00,https://www.iata.org/en/about/members/airline-list/latam-airlines-colombia/505/
+LATAM Airlines Ecuador,XL,462,LNE,Ecuador,354,http://plane.lan.com/,resolved,iata_member_page,2026-05-25T20:55:58+00:00,https://www.iata.org/en/about/members/airline-list/latam-airlines-ecuador/354/
+LATAM Airlines Group,LA,045,LAN,Chile,98,http://plane.lan.com/,resolved,iata_member_page,2026-05-25T20:55:59+00:00,https://www.iata.org/en/about/members/airline-list/latam-airlines-group/98/
+LATAM Airlines Paraguay,PZ,692,LAP,Paraguay,114,http://www.tam.com.py/,resolved,iata_member_page,2026-05-25T20:56:00+00:00,https://www.iata.org/en/about/members/airline-list/latam-airlines-paraguay/114/
+LATAM Airlines Peru,LP,544,LPE,Peru,149,http://plane.lan.com/,resolved,iata_member_page,2026-05-25T20:56:00+00:00,https://www.iata.org/en/about/members/airline-list/latam-airlines-peru/149/
+LATAM Cargo Brasil,M3,549,LTG,Brazil,421,http://www.absacargo.com.br/,resolved,iata_member_page,2026-05-25T20:56:01+00:00,https://www.iata.org/en/about/members/airline-list/latam-cargo-brasil/421/
+LATAM Cargo Chile,UC,145,LCO,Chile,100,http://www.lancargo.com/,resolved,iata_member_page,2026-05-25T20:56:02+00:00,https://www.iata.org/en/about/members/airline-list/latam-cargo-chile/100/
+Link Airways,FC,441,,Australia,600,https://www.linkairways.com/,resolved,iata_member_page,2026-05-25T20:56:02+00:00,https://www.iata.org/en/about/members/airline-list/link-airways/600/
+Lion Air,JT,990,LNI,Indonesia,651,https://www.lionair.co.id/,resolved,iata_member_page,2026-05-25T20:56:03+00:00,https://www.iata.org/en/about/members/airline-list/lion-air/651/
+Loganair,LM,682,LOG,United Kingdom,629,https://www.loganair.co.uk/,resolved,iata_member_page,2026-05-25T20:56:04+00:00,https://www.iata.org/en/about/members/airline-list/loganair/629/
+Loong Air,GJ,891,CDC,China (People's Republic of),533,http://www.loongair.cn/,resolved,iata_member_page,2026-05-25T20:56:04+00:00,https://www.iata.org/en/about/members/airline-list/loong-air/533/
+LOT Polish Airlines,LO,080,LOT,Poland,116,http://www.lot.com/,resolved,iata_member_page,2026-05-25T20:56:05+00:00,https://www.iata.org/en/about/members/airline-list/lot-polish-airlines/116/
+Lucky Air,8L,859,LKE,China (People's Republic of),455,http://www.luckyair.net/,resolved,iata_member_page,2026-05-25T20:56:05+00:00,https://www.iata.org/en/about/members/airline-list/lucky-air/455/
+Lufthansa,LH,220,DLH,Germany,115,http://www.lufthansa.com/,resolved,iata_member_page,2026-05-25T20:56:06+00:00,https://www.iata.org/en/about/members/airline-list/lufthansa/115/
+Lufthansa Cargo,LH,020,GEC,Germany,236,http://www.lufthansa-cargo.com/,resolved,iata_member_page,2026-05-25T20:56:06+00:00,https://www.iata.org/en/about/members/airline-list/lufthansa-cargo/236/
+Lufthansa City Airlines,VL,448,LHX,Germany,671,https://www.lufthansa-city.com/en/home.html,resolved,iata_member_page,2026-05-25T20:56:07+00:00,https://www.iata.org/en/about/members/airline-list/lufthansa-city-airlines/671/
+Lufthansa CityLine,CL,683,CLH,Germany,225,http://www.lufthansacityline.com/,resolved,iata_member_page,2026-05-25T20:56:08+00:00,https://www.iata.org/en/about/members/airline-list/lufthansa-cityline/225/
+Luxair,LG,149,LGL,Luxembourg,113,http://www.luxair.lu/,resolved,iata_member_page,2026-05-25T20:56:08+00:00,https://www.iata.org/en/about/members/airline-list/luxair/113/
+Madagascar Airlines,MD,258,MGY,Madagascar,614,https://madagascarairlines.com/index.html,resolved,iata_member_page,2026-05-25T20:56:09+00:00,https://www.iata.org/en/about/members/airline-list/madagascar-airlines/614/
+Malaysia Airlines,MH,232,MAS,Malaysia,117,http://www.malaysiaairlines.com/,resolved,iata_member_page,2026-05-25T20:56:10+00:00,https://www.iata.org/en/about/members/airline-list/malaysia-airlines/117/
+Mandarin Airlines,AE,803,MDA,Chinese Taipei,467,http://www.mandarin-airlines.com/,resolved,iata_member_page,2026-05-25T20:56:11+00:00,https://www.iata.org/en/about/members/airline-list/mandarin-airlines/467/
+Martinair Cargo,MP,129,MPH,Netherlands,425,http://www.martinair.com/,resolved,iata_member_page,2026-05-25T20:56:11+00:00,https://www.iata.org/en/about/members/airline-list/martinair-cargo/425/
+MasAir,M7,865,MAA,Mexico,415,https://www.masair.com/,resolved,iata_member_page,2026-05-25T20:56:12+00:00,https://www.iata.org/en/about/members/airline-list/masair/415/
+Mauritania Airlines International,L6,495,MAI,Mauritania,459,http://www.mauritaniaairlines.mr/,resolved,iata_member_page,2026-05-25T20:56:12+00:00,https://www.iata.org/en/about/members/airline-list/mauritania-airlines-international/459/
+Mavi Gök Airlines (MGA),4M,734,MGH,Türkiye,630,https://mga.aero/,resolved,iata_member_page,2026-05-25T20:56:13+00:00,https://www.iata.org/en/about/members/airline-list/mavi-g-k-airlines-mga/630/
+MEA,ME,076,MEA,Lebanon,121,http://www.mea.com.lb/,resolved,iata_member_page,2026-05-25T20:56:13+00:00,https://www.iata.org/en/about/members/airline-list/mea/121/
+MIAT Mongolian Airlines,OM,289,MGL,Mongolia,258,http://www.miat.com/,resolved,iata_member_page,2026-05-25T20:56:14+00:00,https://www.iata.org/en/about/members/airline-list/miat-mongolian-airlines/258/
+MNG Airlines,MB,716,MNB,Türkiye,485,http://www.mngairlines.com/,resolved,iata_member_page,2026-05-25T20:56:15+00:00,https://www.iata.org/en/about/members/airline-list/mng-airlines/485/
+Myanmar Airways International,8M,599,MMA,Myanmar,475,http://www.maiair.com/,resolved,iata_member_page,2026-05-25T20:56:15+00:00,https://www.iata.org/en/about/members/airline-list/myanmar-airways-international/475/
+Myanmar National Airlines,UB,665,UBA,Myanmar,586,https://www.flymna.com/,resolved,iata_member_page,2026-05-25T20:56:16+00:00,https://www.iata.org/en/about/members/airline-list/myanmar-national-airlines/586/
+National Airlines,N8,416,NCR,United States,564,https://www.nationalairlines.com/,resolved,iata_member_page,2026-05-25T20:56:16+00:00,https://www.iata.org/en/about/members/airline-list/national-airlines/564/
+Nauru Airlines,ON,123,RON,Australia,631,https://www.nauruair.com/,resolved,iata_member_page,2026-05-25T20:56:17+00:00,https://www.iata.org/en/about/members/airline-list/nauru-airlines/631/
+Neos,NO,703,NOS,Italy,493,http://www.neosair.it/,resolved,iata_member_page,2026-05-25T20:56:18+00:00,https://www.iata.org/en/about/members/airline-list/neos/493/
+Nesma Airlines,NE,477,NMA,Egypt,447,http://www.nesmaairlines.com/,resolved,iata_member_page,2026-05-25T20:56:18+00:00,https://www.iata.org/en/about/members/airline-list/nesma-airlines/447/
+New Pacific Airlines,7H,808,RVF,United States,503,https://www.ravnalaska.com/,resolved,iata_member_page,2026-05-25T20:56:19+00:00,https://www.iata.org/en/about/members/airline-list/new-pacific-airlines/503/
+Nile Air,NP,325,NIA,Egypt,431,http://www.nileair.com/,resolved,iata_member_page,2026-05-25T20:56:19+00:00,https://www.iata.org/en/about/members/airline-list/nile-air/431/
+Nippon Cargo Airlines,KZ,933,NCA,Japan,124,https://www.nca.aero/,resolved,iata_member_page,2026-05-25T20:56:20+00:00,https://www.iata.org/en/about/members/airline-list/nippon-cargo-airlines/124/
+Nok Air,DD,596,NOK,Thailand,619,https://www.nokair.com/,resolved,iata_member_page,2026-05-25T20:56:21+00:00,https://www.iata.org/en/about/members/airline-list/nok-air/619/
+NordStar,Y7,476,TYA,Russian Federation,538,https://www.nordstar.ru/,resolved,iata_member_page,2026-05-25T20:56:22+00:00,https://www.iata.org/en/about/members/airline-list/nordstar/538/
+Nordwind Airlines,N4,216,NWS,Russian Federation,435,http://www.nordwindairlines.ru/,resolved,iata_member_page,2026-05-25T20:56:22+00:00,https://www.iata.org/en/about/members/airline-list/nordwind-airlines/435/
+Norra,N7,,FCM,Finland,646,https://flynorra.com/,resolved,iata_member_page,2026-05-25T20:56:23+00:00,https://www.iata.org/en/about/members/airline-list/norra/646/
+Nouvelair,BJ,796,LBT,Tunisia,409,http://www.nouvelair.com/,resolved,iata_member_page,2026-05-25T20:56:23+00:00,https://www.iata.org/en/about/members/airline-list/nouvelair/409/
+Okay Airways,BK,866,OKA,China (People's Republic of),465,http://www.okair.net/,resolved,iata_member_page,2026-05-25T20:56:24+00:00,https://www.iata.org/en/about/members/airline-list/okay-airways/465/
+Olympic Air,OA,050,OAL,Greece,404,http://www.olympicair.com/,resolved,iata_member_page,2026-05-25T20:56:24+00:00,https://www.iata.org/en/about/members/airline-list/olympic-air/404/
+Oman Air,WY,910,OMA,Oman,156,https://www.omanair.com/en/,resolved,iata_member_page,2026-05-25T20:56:25+00:00,https://www.iata.org/en/about/members/airline-list/oman-air/156/
+Overland Airways,OF,559,OLA,Nigeria,483,http://www.overland.aero/,resolved,iata_member_page,2026-05-25T20:56:26+00:00,https://www.iata.org/en/about/members/airline-list/overland-airways/483/
+Pakistan International Airlines,PK,214,PIA,Pakistan,137,http://www.piac.com.pk/,resolved,iata_member_page,2026-05-25T20:56:26+00:00,https://www.iata.org/en/about/members/airline-list/pakistan-international-airlines/137/
+PAL Express,2P,211,GAP,Philippines,603,https://www.philippineairlines.com/,resolved,iata_member_page,2026-05-25T20:56:27+00:00,https://www.iata.org/en/about/members/airline-list/pal-express/603/
+Paranair,ZP,445,AZP,Paraguay,557,https://www.paranair.com/es-uy/home-espanol-7/,resolved,iata_member_page,2026-05-25T20:56:27+00:00,https://www.iata.org/en/about/members/airline-list/paranair/557/
+Pegasus Airlines,PC,624,PGT,Türkiye,378,http://www.flypgs.com/,resolved,iata_member_page,2026-05-25T20:56:28+00:00,https://www.iata.org/en/about/members/airline-list/pegasus-airlines/378/
+Petroleum Air Services,UF,505,PER,Egypt,638,https://www.pas.com.eg/,resolved,iata_member_page,2026-05-25T20:56:28+00:00,https://www.iata.org/en/about/members/airline-list/petroleum-air-services/638/
+PGA-Portugalia Airlines,NI*,,PGA,Portugal,132,http://www.flytap.com/,resolved,iata_member_page,2026-05-25T20:56:29+00:00,https://www.iata.org/en/about/members/airline-list/pga-portugalia-airlines/132/
+Philippine Airlines,PR,079,PAL,Philippines,122,http://www.philippineairlines.com/,resolved,iata_member_page,2026-05-25T20:56:30+00:00,https://www.iata.org/en/about/members/airline-list/philippine-airlines/122/
+Plus Ultra,PU,663,PUE,Spain,587,https://plusultra.com/,resolved,iata_member_page,2026-05-25T20:56:31+00:00,https://www.iata.org/en/about/members/airline-list/plus-ultra/587/
+Polar Air Cargo,PO,403,PAC,United States,541,http://www.polaraircargo.com/,resolved,iata_member_page,2026-05-25T20:56:32+00:00,https://www.iata.org/en/about/members/airline-list/polar-air-cargo/541/
+PopulAir,HP,415,APF,Sweden,572,https://www.amapola.nu/,resolved,iata_member_page,2026-05-25T20:56:32+00:00,https://www.iata.org/en/about/members/airline-list/populair/572/
+Porter Airlines,PD,451,POE,Canada,670,https://www.flyporter.com/en-ca/,resolved,iata_member_page,2026-05-25T20:56:33+00:00,https://www.iata.org/en/about/members/airline-list/porter-airlines/670/
+Poste Air Cargo,M4,408,MSA,Italy,468,https://www.poste.it/posteaircargo.html,resolved,iata_member_page,2026-05-25T20:56:34+00:00,https://www.iata.org/en/about/members/airline-list/poste-air-cargo/468/
+Precision Air,PW,031,PRF,"Tanzania, United Republic of",369,http://www.precisionairtz.com/,resolved,iata_member_page,2026-05-25T20:56:34+00:00,https://www.iata.org/en/about/members/airline-list/precision-air/369/
+Privilege Style,P6,433,PVG,Spain,543,https://www.privilegestyle.com/,resolved,iata_member_page,2026-05-25T20:56:35+00:00,https://www.iata.org/en/about/members/airline-list/privilege-style/543/
+Proflight Zambia,P0,659,PFZ,Zambia,664,https://proflight-zambia.com/,resolved,iata_member_page,2026-05-25T20:56:36+00:00,https://www.iata.org/en/about/members/airline-list/proflight-zambia/664/
+Qantas,QF,081,QFA,Australia,139,http://www.qantas.com.au/,resolved,iata_member_page,2026-05-25T20:56:36+00:00,https://www.iata.org/en/about/members/airline-list/qantas/139/
+Qatar Airways,QR,157,QTR,Qatar,277,http://www.qatarairways.com/,resolved,iata_member_page,2026-05-25T20:56:37+00:00,https://www.iata.org/en/about/members/airline-list/qatar-airways/277/
+Qazaq Air,IQ,,QAZ,Kazakhstan,536,https://www.flyqazaq.com/,resolved,iata_member_page,2026-05-25T20:56:37+00:00,https://www.iata.org/en/about/members/airline-list/qazaq-air/536/
+Qingdao Airlines,QW,912,QDA,China (People's Republic of),628,https://www.qdairlines.com/,resolved,iata_member_page,2026-05-25T20:56:38+00:00,https://www.iata.org/en/about/members/airline-list/qingdao-airlines/628/
+Red Sea Airlines,4S,,RSX,Egypt,612,https://www.redseaairlines.com/,resolved,iata_member_page,2026-05-25T20:56:39+00:00,https://www.iata.org/en/about/members/airline-list/red-sea-airlines/612/
+Riyadh Air,RX,122,RXI,Saudi Arabia,669,https://www.riyadhair.com/en/home,resolved,iata_member_page,2026-05-25T20:56:39+00:00,https://www.iata.org/en/about/members/airline-list/riyadh-air/669/
+Rossiya Airlines,FV,195,SDM,Russian Federation,418,http://www.rossiya-airlines.com/,resolved,iata_member_page,2026-05-25T20:56:40+00:00,https://www.iata.org/en/about/members/airline-list/rossiya-airlines/418/
+Royal Air Maroc,AT,147,RAM,Morocco,136,http://www.royalairmaroc.com/,resolved,iata_member_page,2026-05-25T20:56:41+00:00,https://www.iata.org/en/about/members/airline-list/royal-air-maroc/136/
+Royal Brunei,BI,672,RBA,Brunei Darussalam,140,http://www.bruneiair.com/,resolved,iata_member_page,2026-05-25T20:56:41+00:00,https://www.iata.org/en/about/members/airline-list/royal-brunei/140/
+Royal Jordanian,RJ,512,RJA,Jordan,133,http://www.rj.com/,resolved,iata_member_page,2026-05-25T20:56:42+00:00,https://www.iata.org/en/about/members/airline-list/royal-jordanian/133/
+Ruili Airlines,DR,299,RLH,China (People's Republic of),547,https://www.rlair.net/,resolved,iata_member_page,2026-05-25T20:56:42+00:00,https://www.iata.org/en/about/members/airline-list/ruili-airlines/547/
+RusLine,7R,362,RLU,Russian Federation,550,https://www.rusline.aero/en/,resolved,iata_member_page,2026-05-25T20:56:43+00:00,https://www.iata.org/en/about/members/airline-list/rusline/550/
+RwandAir,WB,459,RWD,Rwanda,458,http://www.rwandair.com/,resolved,iata_member_page,2026-05-25T20:56:44+00:00,https://www.iata.org/en/about/members/airline-list/rwandair/458/
+S7 Airlines,S7,421,SBI,Russian Federation,338,http://www.s7.ru/,resolved,iata_member_page,2026-05-25T20:56:44+00:00,https://www.iata.org/en/about/members/airline-list/s7-airlines/338/
+Safair,FA,640,SFR,South Africa,227,http://www.safair.co.za/,resolved,iata_member_page,2026-05-25T20:56:44+00:00,https://www.iata.org/en/about/members/airline-list/safair/227/
+Salam Air,OV,960,OMS,Oman,588,https://www.salamair.com/en/,resolved,iata_member_page,2026-05-25T20:56:45+00:00,https://www.iata.org/en/about/members/airline-list/salam-air/588/
+SAS,SK,117,SAS,Sweden,171,http://www.flysas.com/,resolved,iata_member_page,2026-05-25T20:56:45+00:00,https://www.iata.org/en/about/members/airline-list/sas/171/
+SATA  Air Acores,SP,737,SAT,Portugal,220,http://www.sata.pt/,resolved,iata_member_page,2026-05-25T20:56:46+00:00,https://www.iata.org/en/about/members/airline-list/sata-air-acores/220/
+Saudi Arabian Airlines,SV,065,SVA,Saudi Arabia,174,http://www.saudiairlines.com/,resolved,iata_member_page,2026-05-25T20:56:47+00:00,https://www.iata.org/en/about/members/airline-list/saudi-arabian-airlines/174/
+SCAT Airlines,DV,655,VSV,Kazakhstan,515,http://www.scat.kz/,resolved,iata_member_page,2026-05-25T20:56:47+00:00,https://www.iata.org/en/about/members/airline-list/scat-airlines/515/
+Scoot,TR,668,TGW,Singapore,581,https://www.flyscoot.com/en,resolved,iata_member_page,2026-05-25T20:56:48+00:00,https://www.iata.org/en/about/members/airline-list/scoot/581/
+SF Airlines,O3,921,CSS,China (People's Republic of),490,http://www.sf-airlines.com/,resolved,iata_member_page,2026-05-25T20:56:49+00:00,https://www.iata.org/en/about/members/airline-list/sf-airlines/490/
+Shandong Airlines,SC,324,CDG,China (People's Republic of),335,http://www.shandongair.com/,resolved,iata_member_page,2026-05-25T20:56:50+00:00,https://www.iata.org/en/about/members/airline-list/shandong-airlines/335/
+Shanghai Airlines,FM,774,CSH,China (People's Republic of),155,http://www.shanghai-air.com/,resolved,iata_member_page,2026-05-25T20:56:50+00:00,https://www.iata.org/en/about/members/airline-list/shanghai-airlines/155/
+Shenzhen Airlines,ZH,479,CSZ,China (People's Republic of),333,http://www.shenzhenair.com/,resolved,iata_member_page,2026-05-25T20:56:51+00:00,https://www.iata.org/en/about/members/airline-list/shenzhen-airlines/333/
+Sichuan Airlines,3U,876,CSC,China (People's Republic of),374,http://www.scal.com.cn/,resolved,iata_member_page,2026-05-25T20:56:52+00:00,https://www.iata.org/en/about/members/airline-list/sichuan-airlines/374/
+Silk Way West Airlines,7L,501,AZG,Azerbaijan,457,https://www.silkwaywest.com/,resolved,iata_member_page,2026-05-25T20:57:03+00:00,https://www.iata.org/en/about/members/airline-list/silk-way-west-airlines/457/
+Singapore Airlines,SQ,618,SIA,Singapore,177,http://www.singaporeair.com/,resolved,iata_member_page,2026-05-25T20:57:03+00:00,https://www.iata.org/en/about/members/airline-list/singapore-airlines/177/
+SKY Airline,H2,605,SKU,Chile,450,https://www.skyairline.com/chile,resolved,iata_member_page,2026-05-25T20:57:04+00:00,https://www.iata.org/en/about/members/airline-list/sky-airline/450/
+Sky express,GQ,633,SEH,Greece,641,https://www.skyexpress.gr/en,resolved,iata_member_page,2026-05-25T20:57:04+00:00,https://www.iata.org/en/about/members/airline-list/sky-express/641/
+SkyUp Airlines,PQ,010,SQP,Ukraine,657,https://skyup.aero/en,resolved,iata_member_page,2026-05-25T20:57:05+00:00,https://www.iata.org/en/about/members/airline-list/skyup-airlines/657/
+Smartavia,5N,316,AUL,Russian Federation,419,http://www.flysmartavia.com/,resolved,iata_member_page,2026-05-25T20:57:06+00:00,https://www.iata.org/en/about/members/airline-list/smartavia/419/
+SmartLynx Airlines Malta,2N*,,LYX,Malta,624,https://www.smartlynx.aero/en,resolved,iata_member_page,2026-05-25T20:57:06+00:00,https://www.iata.org/en/about/members/airline-list/smartlynx-airlines-malta/624/
+Smartwings,QS,797,TVS,Czechia,570,https://www.smartwings.com/,resolved,iata_member_page,2026-05-25T20:57:07+00:00,https://www.iata.org/en/about/members/airline-list/smartwings/570/
+Solomon Airlines,IE,193,SOL,Solomon Islands,525,http://www.flysolomons.com/,resolved,iata_member_page,2026-05-25T20:57:08+00:00,https://www.iata.org/en/about/members/airline-list/solomon-airlines/525/
+Somon Air,SZ,413,SMR,Tajikistan,508,http://www.somonair.com/,resolved,iata_member_page,2026-05-25T20:57:08+00:00,https://www.iata.org/en/about/members/airline-list/somon-air/508/
+South African Airways,SA,083,SAA,South Africa,175,http://www.flysaa.com/,resolved,iata_member_page,2026-05-25T20:57:09+00:00,https://www.iata.org/en/about/members/airline-list/south-african-airways/175/
+Southwest Airlines,WN,526,SWA,United States,642,https://www.southwest.com/,resolved,iata_member_page,2026-05-25T20:57:10+00:00,https://www.iata.org/en/about/members/airline-list/southwest-airlines/642/
+Southwind Airlines,2S,263,STW,Türkiye,623,https://southwindairlines.com/en,resolved,iata_member_page,2026-05-25T20:57:10+00:00,https://www.iata.org/en/about/members/airline-list/southwind-airlines/623/
+SpiceJet,SG,775,SEJ,India,532,http://www.spicejet.com/,resolved,iata_member_page,2026-05-25T20:57:11+00:00,https://www.iata.org/en/about/members/airline-list/spicejet/532/
+SriLankan Airlines,UL,603,ALK,Sri Lanka,40,http://www.srilankan.com/,resolved,iata_member_page,2026-05-25T20:57:12+00:00,https://www.iata.org/en/about/members/airline-list/srilankan-airlines/40/
+STARLUX Airlines,JX,189,SJX,Chinese Taipei,605,https://www.starlux-airlines.com/en-US,resolved,iata_member_page,2026-05-25T20:57:12+00:00,https://www.iata.org/en/about/members/airline-list/starlux-airlines/605/
+Sun Country Airlines,SY,337,SCX,United States,599,https://ir.suncountry.com/,resolved,iata_member_page,2026-05-25T20:57:13+00:00,https://www.iata.org/en/about/members/airline-list/sun-country-airlines/599/
+SunExpress,XQ,564,SXS,Türkiye,407,http://www.sunexpress.com/,resolved,iata_member_page,2026-05-25T20:57:13+00:00,https://www.iata.org/en/about/members/airline-list/sunexpress/407/
+Suparna Airlines,Y8,871,YZR,China (People's Republic of),524,https://ffp.hnair.com/FFPClub/en/hqjf/hkjl/gszl/201809/t20180910_25325.html,resolved,iata_member_page,2026-05-25T20:57:14+00:00,https://www.iata.org/en/about/members/airline-list/suparna-airlines/524/
+Swiftair,WT,221,SWT,Spain,597,https://www.swiftair.com/,resolved,iata_member_page,2026-05-25T20:57:14+00:00,https://www.iata.org/en/about/members/airline-list/swiftair/597/
+SWISS,LX,724,SWR,Switzerland,67,http://www.swiss.com/,resolved,iata_member_page,2026-05-25T20:57:15+00:00,https://www.iata.org/en/about/members/airline-list/swiss/67/
+Syrianair,RB,070,SYR,Syrian Arab Republic,183,http://www.syriaair.com/,resolved,iata_member_page,2026-05-25T20:57:16+00:00,https://www.iata.org/en/about/members/airline-list/syrianair/183/
+T'way Air,TW,722,TWB,"Korea, Republic of",472,http://www.twayair.com/,resolved,iata_member_page,2026-05-25T20:57:17+00:00,https://www.iata.org/en/about/members/airline-list/t-way-air/472/
+TAAG Angola Airlines,DT,118,DTA,Angola,35,http://www.taag.com/,resolved,iata_member_page,2026-05-25T20:57:17+00:00,https://www.iata.org/en/about/members/airline-list/taag-angola-airlines/35/
+TACA,TA,202,TAI,El Salvador,193,http://www.taca.com/,resolved,iata_member_page,2026-05-25T20:57:18+00:00,https://www.iata.org/en/about/members/airline-list/taca/193/
+TAG Airlines,5U,411,TGU,Guatemala,583,https://www.tag.com.gt/,resolved,iata_member_page,2026-05-25T20:57:18+00:00,https://www.iata.org/en/about/members/airline-list/tag-airlines/583/
+Tailwind Airlines,TI*,768,TWI,Türkiye,626,https://www.tailwind.com.tr/,resolved,iata_member_page,2026-05-25T20:57:19+00:00,https://www.iata.org/en/about/members/airline-list/tailwind-airlines/626/
+TAP Air Portugal,TP,047,TAP,Portugal,188,http://www.flytap.com/,resolved,iata_member_page,2026-05-25T20:57:19+00:00,https://www.iata.org/en/about/members/airline-list/tap-air-portugal/188/
+TAROM,RO,281,ROT,Romania,191,http://www.tarom.ro/,resolved,iata_member_page,2026-05-25T20:57:21+00:00,https://www.iata.org/en/about/members/airline-list/tarom/191/
+Thai Airways International,TG,217,THA,Thailand,182,http://www.thaiair.com/,resolved,iata_member_page,2026-05-25T20:57:22+00:00,https://www.iata.org/en/about/members/airline-list/thai-airways-international/182/
+Thai Lion Air,SL,310,TLM,Thailand,482,http://www.lionairthai.com/,resolved,iata_member_page,2026-05-25T20:57:22+00:00,https://www.iata.org/en/about/members/airline-list/thai-lion-air/482/
+Tianjin Airlines,GS,826,GCR,China (People's Republic of),411,http://www.tianjin-air.com/,resolved,iata_member_page,2026-05-25T20:57:23+00:00,https://www.iata.org/en/about/members/airline-list/tianjin-airlines/411/
+Tibet Airlines,TV,088,TBA,China (People's Republic of),617,https://www.tibetairlines.com.cn/,resolved,iata_member_page,2026-05-25T20:57:23+00:00,https://www.iata.org/en/about/members/airline-list/tibet-airlines/617/
+TUIfly,X3,617,TUI,Germany,279,http://www.tuifly.com/,resolved,iata_member_page,2026-05-25T20:57:24+00:00,https://www.iata.org/en/about/members/airline-list/tuifly/279/
+Tunisair,TU,199,TAR,Tunisia,201,http://www.tunisair.com.tn/,resolved,iata_member_page,2026-05-25T20:57:25+00:00,https://www.iata.org/en/about/members/airline-list/tunisair/201/
+Turkish Airlines,TK,235,THY,Türkiye,196,http://www.thy.com/,resolved,iata_member_page,2026-05-25T20:57:25+00:00,https://www.iata.org/en/about/members/airline-list/turkish-airlines/196/
+TUS Airways,U8,034,CYF,Cyprus,620,https://www.tusairways.com/,resolved,iata_member_page,2026-05-25T20:57:26+00:00,https://www.iata.org/en/about/members/airline-list/tus-airways/620/
+ULS Airlines Cargo,GO*,444,KZU,Türkiye,592,https://ulsairlines.com/,resolved,iata_member_page,2026-05-25T20:57:27+00:00,https://www.iata.org/en/about/members/airline-list/uls-airlines-cargo/592/
+UNI AIR,B7,525,UIA,Chinese Taipei,523,https://www.uniair.com.tw/,resolved,iata_member_page,2026-05-25T20:57:28+00:00,https://www.iata.org/en/about/members/airline-list/uni-air/523/
+United Airlines,UA,016,UAL,United States,65,http://www.united.com/,resolved,iata_member_page,2026-05-25T20:57:28+00:00,https://www.iata.org/en/about/members/airline-list/united-airlines/65/
+United Nigeria Airlines,UN,,NUA,Nigeria,598,https://flyunitednigeria.com/,resolved,iata_member_page,2026-05-25T20:57:29+00:00,https://www.iata.org/en/about/members/airline-list/united-nigeria-airlines/598/
+UPS Airlines,5X,406,UPS,United States,198,http://www.ups.com/,resolved,iata_member_page,2026-05-25T20:57:29+00:00,https://www.iata.org/en/about/members/airline-list/ups-airlines/198/
+Ural Airlines,U6,262,SVR,Russian Federation,469,http://www.uralairlines.com/,resolved,iata_member_page,2026-05-25T20:57:30+00:00,https://www.iata.org/en/about/members/airline-list/ural-airlines/469/
+Urumqi Air,UQ,886,CUH,China (People's Republic of),528,http://www.urumqi-air.com/,resolved,iata_member_page,2026-05-25T20:57:31+00:00,https://www.iata.org/en/about/members/airline-list/urumqi-air/528/
+US-Bangla Airlines,BS,779,UBG,Bangladesh,596,https://usbair.com/,resolved,iata_member_page,2026-05-25T20:57:32+00:00,https://www.iata.org/en/about/members/airline-list/us-bangla-airlines/596/
+UTair,UT,298,UTA,Russian Federation,386,http://www.utair.com/,resolved,iata_member_page,2026-05-25T20:57:32+00:00,https://www.iata.org/en/about/members/airline-list/utair/386/
+Uzbekistan Airways,HY,250,UZB,Uzbekistan,434,http://www.uzairways.com/,resolved,iata_member_page,2026-05-25T20:57:33+00:00,https://www.iata.org/en/about/members/airline-list/uzbekistan-airways/434/
+Vietjet,VJ,978,VJC,Vietnam,486,http://www.vietjetair.com/,resolved,iata_member_page,2026-05-25T20:57:33+00:00,https://www.iata.org/en/about/members/airline-list/vietjet/486/
+Vietnam Airlines,VN,738,HVN,Vietnam,375,http://www.vietnamairlines.com/,resolved,iata_member_page,2026-05-25T20:57:34+00:00,https://www.iata.org/en/about/members/airline-list/vietnam-airlines/375/
+Virgin Atlantic,VS,932,VIR,United Kingdom,205,http://www.virgin-atlantic.com/,resolved,iata_member_page,2026-05-25T20:57:35+00:00,https://www.iata.org/en/about/members/airline-list/virgin-atlantic/205/
+Virgin Australia,VA,795,VAU,Australia,417,https://www.virginaustralia.com/au/en/,resolved,iata_member_page,2026-05-25T20:57:35+00:00,https://www.iata.org/en/about/members/airline-list/virgin-australia/417/
+Volaris,Y4,036,VOI,Mexico,397,http://www.volaris.com.mx/,resolved,iata_member_page,2026-05-25T20:57:36+00:00,https://www.iata.org/en/about/members/airline-list/volaris/397/
+Volotea,V7,712,VOE,Spain,520,http://www.volotea.com/,resolved,iata_member_page,2026-05-25T20:57:36+00:00,https://www.iata.org/en/about/members/airline-list/volotea/520/
+Vueling,VY,030,VLG,Spain,466,http://www.vueling.com/,resolved,iata_member_page,2026-05-25T20:57:37+00:00,https://www.iata.org/en/about/members/airline-list/vueling/466/
+Wamos Air,EB,460,PLM,Spain,470,http://www.wamosair.com/,resolved,iata_member_page,2026-05-25T20:57:37+00:00,https://www.iata.org/en/about/members/airline-list/wamos-air/470/
+West Air,PN,847,CHB,China (People's Republic of),539,http://www.westair.cn/,resolved,iata_member_page,2026-05-25T20:57:38+00:00,https://www.iata.org/en/about/members/airline-list/west-air/539/
+WestJet,WS,838,WJA,Canada,473,http://www.westjet.com/,resolved,iata_member_page,2026-05-25T20:57:38+00:00,https://www.iata.org/en/about/members/airline-list/westjet/473/
+White coloured by you,WI,097,WHT,Portugal,394,http://www.flywhite.com/,resolved,iata_member_page,2026-05-25T20:57:39+00:00,https://www.iata.org/en/about/members/airline-list/white-coloured-by-you/394/
+Wideroe,WF,701,WIF,Norway,233,http://www.wideroe.no/,resolved,iata_member_page,2026-05-25T20:57:39+00:00,https://www.iata.org/en/about/members/airline-list/wideroe/233/
+World2Fly,2W,825,WFL,Spain,568,https://www.w2fly.es/,resolved,iata_member_page,2026-05-25T20:57:40+00:00,https://www.iata.org/en/about/members/airline-list/world2fly/568/
+Xiamen Airlines,MF,731,CXA,China (People's Republic of),147,http://www.xiamenair.com.cn/,resolved,iata_member_page,2026-05-25T20:57:41+00:00,https://www.iata.org/en/about/members/airline-list/xiamen-airlines/147/
+YTO Cargo Airlines,YG,860,HYT,China (People's Republic of),546,http://www.yto.net/cn,resolved,iata_member_page,2026-05-25T20:57:42+00:00,https://www.iata.org/en/about/members/airline-list/yto-cargo-airlines/546/

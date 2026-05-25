@@ -1,0 +1,33 @@
+{
+  "airline_name": "Bamboo Airways",
+  "iata_designator": "QH",
+  "icao_code": "BAV",
+  "country_territory": "Vietnam",
+  "official_site": "https://www.bambooairways.com/vn-en/",
+  "checked_at": "2026-05-25T21:49:53+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.bambooairways.com/vn/en/travel-info/baggage-info/baggage-allowance",
+  "restricted_items_url": "https://www.bambooairways.com/vn/en/support/help-center",
+  "battery_policy_url": "https://www.bambooairways.com/vn/en/support/help-center",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "56 x 36 x 23 cm",
+    "weight_limit": "32 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Help Center - Bamboo Airways Skip to Content Explore Destinations Bangkok Ho Chi Minh city Ha Noi Da Nang Nha Trang All destinations Offers Exclusive Offers For Sacombank Cardholders Spring Special Offer from Bamboo and Momo All Offers Flight Tickets & Schedule Flight schedule Flight tickets to Da Nang Flight tickets to Ho Chi Minh City Flight tickets to Thailand Flight tickets from Hanoi Booking Online booking BOOK NOW Booking Info Fare Rules Refund, Cancellation, Rebook, Reroute Special Fares Late-coming, Go-show, Last-minute ticket sales Tax, Fee and Surcharge Payment options Instructional information Additional Services Seat Selection Excess Baggage Business Lounge Upgrade at Airport Paid meals and drinks Extra seat BambooCARE Travel Insurance Bamboo Gift Bamboo Experience Wholehearted Journey Business Class Economy Class Bamboo & More Bamboo Gift Card From Partners Business Flight Pass Travel Info Baggage Info Carry-on Baggage Baggage Allowance Excess Baggage Special Baggage Restricted Baggage Dangerous Items Conditional Carriage of Baggage Pet Travel Services Delayed, Damaged or Lost baggage, Baggage left onboard Contact Lost and Found Offices Check-in Online Check-in Airport",
+  "notes": ""
+}

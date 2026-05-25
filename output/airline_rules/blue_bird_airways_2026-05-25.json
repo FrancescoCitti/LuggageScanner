@@ -1,0 +1,33 @@
+{
+  "airline_name": "Blue Bird Airways",
+  "iata_designator": "BZ",
+  "icao_code": "BBG",
+  "country_territory": "Greece",
+  "official_site": "https://www.bluebirdair.com/en",
+  "checked_at": "2026-05-25T21:51:00+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.bluebirdair.com/Travel-information/Baggage-allowance",
+  "restricted_items_url": "https://www.bluebirdair.com/Travel-information/Lithium-Battery-Allowance-and-Dangerous-Goods",
+  "battery_policy_url": "https://www.bluebirdair.com/Travel-information/Lithium-Battery-Allowance-and-Dangerous-Goods",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": true,
+  "found_lighter_info": true,
+  "carry_on": {
+    "dimensions": "18 x 30 x 40 cm",
+    "weight_limit": "4 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": "mentioned",
+    "power_bank_rule": "mentioned",
+    "ecig_rule": "mentioned",
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": "Flammable Liquids: Fuel containers (even if empty)‚ gasoline‚ diesel‚ lighter fluid‚ and alcohol/ethanol.",
+    "matches_rule": "Matches: All matches‚ especially \"strike-anywhere\" matches."
+  },
+  "prohibited_items_summary": "Lithium Batteries Electronics & Dangerous Goods Rules | Bluebird Airways Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to people with visual disabilities who are using a screen reader; Press Control-F10 to open an accessibility menu. Popup heading Close Accessibility Press enter for Accessibility for blind people who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu Skip to Main Content Login € EUR $ USD ₪ ILS English Ελληνικά עברית × Login Login User Name (your email) Password Trouble logging in ? Let's reset your password Not a Member ? Sign up Agent Login Email Password Trouble logging in ? Let's reset your password Not a Member ? Sign up Agent CRS Login Username Password Use Multi-Factor Authentication Not a Member ? Sign up × Sign up Sign up Special offers just for you Receive our personalized offers Save time on your next bookings Earn Miles on every trip & Buy Award tickets Sign up *First Name (English) *Last Name (English) *Birth date Select 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Select JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NO",
+  "notes": ""
+}

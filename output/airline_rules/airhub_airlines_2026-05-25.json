@@ -1,0 +1,33 @@
+{
+  "airline_name": "Airhub Airlines",
+  "iata_designator": "RE",
+  "icao_code": "GJM",
+  "country_territory": "Malta",
+  "official_site": "http://www.airhubaviation.com/",
+  "checked_at": "2026-05-25T21:40:45+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://airhubairlines.com/for-passengers/baggage-information/general-baggage-information/",
+  "restricted_items_url": "https://airhubairlines.com/privacy-policy/",
+  "battery_policy_url": "https://airhubairlines.com/privacy-policy/",
+  "found_baggage_info": true,
+  "found_restricted_items": false,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "55 x 40 x 20 cm",
+    "weight_limit": "5 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Privacy Policy | Airhub Airlines About Us For passengers General information Travel documents General conditions of carriage Special assistance Additional services Baggage information General baggage information Damaged, delayed or lost baggage Passenger rights Bill of rights Regulation (EC) No 261/2004 EU security rules at airports Alternative dispute resolution Submit claim Fleet Services Contact us Home Privacy Policy Privacy Policy Definitions used in the Privacy Policy: Regulation – Regulation (EU) 2016/ 679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal data and on the free movement of such data, and repealing Directive 95/46/EC. Company – Airhub Airlines Limited, number of Legal entity C93930, registration address Aragon House Business Centre, Dragonara Road, St. Julian ‘ s, ST J 3140, Malta. Data subject means a natural person whose Personal data is collected and processed by the Company. Personal data means any information about a natural person who is identified or identifiable; a natural person who can be identified, whose identity can be determined directly or indirectly, in p",
+  "notes": ""
+}

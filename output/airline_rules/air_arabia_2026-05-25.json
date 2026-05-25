@@ -1,0 +1,33 @@
+{
+  "airline_name": "Air Arabia",
+  "iata_designator": "G9",
+  "icao_code": "ABY",
+  "country_territory": "United Arab Emirates",
+  "official_site": "http://www.airarabia.com/",
+  "checked_at": "2026-05-25T21:26:09+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.airarabia.com/en/manage/add-extras/add-baggage",
+  "restricted_items_url": "https://www.airarabia.com/en/manage/modify/modification-and-cancellation-charges",
+  "battery_policy_url": "https://www.airarabia.com/en/manage/modify/modification-and-cancellation-charges",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": "20 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Modifications and Cancellations LOGIN Italy EUR en English Deutsch English español français italiano Türkçe русский العربية Login AirRewards Discover AirRewards Join now Login AirRewards RAKBANK Air Arabia platinum credit card Plan Booking Book flight Book flight + hotel Book hotel Rent a car Best Offers Fare types Booking with us Airport Shuttle Service Cargo Service Payment Options Flying with us Inflight Magazine Sky Cafe Sky Time Flying families with care and comfort Groups and Charters Group Travel Requests Charter Flight Requests Manage Modify/Cancel Modify Flight Cancel Flight Modification and cancellation charges Add Extras Add Baggage Add Seats Add Meals Add Travel Insurance Add Airport Services AirRewards Add AirRewards ID - Future Flight Add AirRewards ID - Past Flight Flight Status Check Flight Status Check-in Online Check-In City Check-In Home Check-in (Sharjah) Home Check-in (Abu Dhabi) Destinations Where we fly Route map Our hubs Egypt Morocco United Arab Emirates Popular Bahrain France India Pakistan Saudi Arabia More... Holidays Georgia Greece Italy Maldives Thailand More... Help Help Centre Chat Start Chat Travel FAQs FAQ Source Modifications and Cancellations You",
+  "notes": ""
+}

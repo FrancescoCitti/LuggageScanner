@@ -1,0 +1,36 @@
+{
+  "airline_name": "Air Cambodia",
+  "iata_designator": "K6",
+  "icao_code": "KHV",
+  "country_territory": "Cambodia",
+  "official_site": "https://www.aircambodia.com/en/",
+  "checked_at": "2026-05-25T21:28:44+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.aircambodia.com/en/baggage",
+  "restricted_items_url": "",
+  "battery_policy_url": "",
+  "found_baggage_info": true,
+  "found_restricted_items": true,
+  "found_battery_info": true,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": "56 x 36 x 23 cm",
+    "weight_limit": "32 kg"
+  },
+  "battery_info": {
+    "power_bank_max_wh": [
+      100,
+      160
+    ],
+    "spare_battery_rule": "mentioned",
+    "power_bank_rule": "mentioned",
+    "ecig_rule": "mentioned",
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "",
+  "notes": ""
+}

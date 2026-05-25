@@ -1,0 +1,33 @@
+{
+  "airline_name": "Bahamasair",
+  "iata_designator": "UP",
+  "icao_code": "BHS",
+  "country_territory": "Bahamas",
+  "official_site": "http://www.bahamasair.com/",
+  "checked_at": "2026-05-25T21:49:09+00:00",
+  "status": "ok",
+  "baggage_policy_url": "https://www.bahamasair.com/baggage-information/baggage-allowance-domestic-international",
+  "restricted_items_url": "https://www.bahamasair.com/baggage-information/restricted-items",
+  "battery_policy_url": "https://www.bahamasair.com/privacypolicy",
+  "found_baggage_info": false,
+  "found_restricted_items": true,
+  "found_battery_info": false,
+  "found_lighter_info": false,
+  "carry_on": {
+    "dimensions": null,
+    "weight_limit": null
+  },
+  "battery_info": {
+    "power_bank_max_wh": null,
+    "spare_battery_rule": null,
+    "power_bank_rule": null,
+    "ecig_rule": null,
+    "smart_bag_rule": null
+  },
+  "lighter_info": {
+    "lighter_rule": null,
+    "matches_rule": null
+  },
+  "prohibited_items_summary": "Restricted Items Offers Baggage Cargo Services Policies About Bahamasair Contact Hotels and Cars TSA PreCheck Login Restricted Items Flight Search, Check-In Tabs Flight Select Your Dates My Dates are Flexible May 2026 Su Mo Tu We Th Fr Sa 26 27 28 29 30 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 1 2 3 4 5 6 Jun 2026 Su Mo Tu We Th Fr Sa 31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6 7 8 9 10 11 Apply Cancel Oneway Roundtrip Multicity Buy a ticket with Miles From Nassau (NAS) Arthur's Town (ATC) Crooked Island (CRI) Deadmans Cay (LGI) Freeport (FPO) George Town (GGT) Governors Harbour (GHB) Great Harbour Cay (GHC) Inagua (IGA) Marsh Harbour (MHH) Mayaguana (MYG) North Eleuthera (ELH) Rock Sound (RSD) San Salvador (ZSA) Spring Point (AXP) Stella Maris (SML) Havana (HAV) Cap Haitien (CAP) Providenciales (PLS) Fort Lauderdale (FLL) Miami (MIA) Orlando (MCO) West Palm Beach (PBI) From To To From Nassau (NAS) Arthur's Town (ATC) Crooked Island (CRI) Deadmans Cay (LGI) Freeport (FPO) George Town (GGT) Governors Harbour (GHB) Great Harbour Cay (GHC) Inagua (IGA) Marsh Harbour (MHH) Mayaguana (MYG) Nor",
+  "notes": ""
+}
